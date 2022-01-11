@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "unlock": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "newmc:espada_lisa"
+        }
+      }
+    },
+    "rewards": {
+      "function": "newmc:espada_lisa"
+    }
+  }
+  

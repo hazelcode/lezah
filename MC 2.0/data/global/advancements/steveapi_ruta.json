@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Datapacks instalados (SteveAPI)",
+        "description": "Datapacks instalados que usan/dependen de SteveAPI",
+        "icon": {
+            "item": "minecraft:player_head"
+        },
+        "background": "minecraft:lime_concrete",
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}

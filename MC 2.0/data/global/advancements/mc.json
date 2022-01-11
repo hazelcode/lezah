@@ -1,0 +1,17 @@
+{
+    "display": {
+        "title": "Minecraft 2.0",
+        "description": "Una aventura nueva, un mundo nuevo",
+        "icon": {
+            "item": "minecraft:grass_block"
+        },
+        "show_toast": false,
+        "announce_to_chat": false
+    },
+    "parent": "global:steveapi",
+    "criteria": {
+        "trigger": {
+            "trigger": "minecraft:tick"
+        }
+    }
+}
