@@ -6,4 +6,8 @@
 
 ### Dependencias
 
-Descarga [Steve API](https://github.com/tacozyt/steveapi/releases/latest), un datapack, porque usaremos cosas de ahí.
+Descarga opcionalmente [Steve API](https://github.com/tacozyt/steveapi/releases/latest), un datapack, porque usaremos cosas de ahí y después se quitará del datapack.
+
+**POR AHORA ESTÁ INCLUIDO EN EL DATAPACK**
+
+Debido a pruebas está fusionado para que incluyamos probables características nuevas a ese datapack, después, ya deberás descargarlo obligatoriamente
