@@ -7,6 +7,7 @@ scoreboard players enable @a reloadMC2
 ##SCOREBOARDS##
 scoreboard objectives add tsr custom:time_since_rest
 scoreboard objectives add crafteos dummy
+scoreboard objectives add ticks dummy
 
 ##TERMINAR##
 tellraw @a [{"text": "[Minecraft 2.0] ","color": "green"},{"text": "Recarga completa","color": "yellow"}]
