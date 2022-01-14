@@ -27,6 +27,6 @@ Incompatible, no hay descargas para Minecraft 1.16
 
 **Versión:** Beta #1
 
-**Fecha y hora:** Viernes 14 de Enero del 2022 a las 2:10 PM (Centro de México)
+**Fecha y hora:** Viernes 14 de Enero del 2022 a las 2:53 PM (Centro de México)
 
-[[DESCARGAR BETA]](https://github.com/tacozyt/mc2.0/files/7872867/Minecraft.2.0.Beta1.zip)
+[[DESCARGAR BETA]](https://github.com/tacozyt/mc2.0/files/7873137/Minecraft_2.0_Beta1_MC1.18.zip)
