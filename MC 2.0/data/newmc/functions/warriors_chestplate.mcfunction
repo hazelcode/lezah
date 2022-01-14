@@ -1,4 +1,4 @@
-advancement revoke @s only newwmc:onlyrecipes/warriors_chestplate
+advancement revoke @s only newmc:onlyrecipes/warriors_chestplate
 recipe take @s newmc:warriors_chestplate
 
 execute store result score @s crafteos run clear @s command_block
