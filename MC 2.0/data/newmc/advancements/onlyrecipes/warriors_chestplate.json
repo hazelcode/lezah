@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "unlock": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "newmc:warriors_chestplate"
+        }
+      }
+    },
+    "rewards": {
+      "function": "newmc:warriors_chestplate"
+    }
+  }
+  
