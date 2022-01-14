@@ -12,6 +12,11 @@ Descarga opcionalmente [Steve API](https://github.com/tacozyt/steveapi/releases/
 
 Debido a pruebas está fusionado para que incluyamos probables características nuevas a ese datapack, después, ya deberás descargarlo obligatoriamente
 
+## Descargas beta
+Puedes experimentar la última experiencia beta del datapack, puedes probarlas, dar tu opinión, sugerir cambios y arreglos
+
+[[DESCARGAS BETA]](https://tacozyt.github.io/mc2.0/downloadsbeta)
+
 ## Minecraft 1.16.x
 
 Incompatible, no hay descargas para Minecraft 1.16
