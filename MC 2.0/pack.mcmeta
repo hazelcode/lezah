@@ -1,6 +1,6 @@
 {
     "pack": {
-        "pack_format": 7,
-        "description":"Una aventura nueva, un mundo nuevo"
-    }
+        "description": "Una aventura nueva, un mundo nuevo",
+        "pack_format": 7
+       }
 }
