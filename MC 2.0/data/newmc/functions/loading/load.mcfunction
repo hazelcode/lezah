@@ -9,6 +9,7 @@ scoreboard objectives add tsr custom:time_since_rest
 scoreboard objectives add crafteos dummy
 scoreboard objectives add ticks dummy
 scoreboard objectives add zombismatados killed:zombie
+scoreboard objectives add piconetherite used:netherite_pickaxe
 
 ##TERMINAR##
 tellraw @a [{"text": "[Minecraft 2.0] ","color": "green"},{"text": "Recarga completa","color": "yellow"}]
