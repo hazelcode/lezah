@@ -1,0 +1,1 @@
+effect give @a[predicate=newmc:itemdetect/mainhand/espada_lisa] strength 1 1 true
