@@ -3,6 +3,11 @@ tellraw @a [{"text": "[Minecraft 2.0] ","color": "green"},{"text": "Recargando..
 ##TRIGGERS##
 scoreboard objectives add reloadMC2 trigger
 scoreboard players enable @a reloadMC2
+scoreboard objectives add updateMC2 trigger
+scoreboard players enable @a updateMC2
+
+##FUNCIONES##
+function newmc:loading/api/load
 
 ##FUNCIONES##
 function newmc:loading/api/load

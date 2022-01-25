@@ -1,6 +1,7 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
+<<<<<<< Updated upstream
     "UwU",
     "UUU",
     "UUU"
@@ -10,6 +11,17 @@
       "item": "minecraft:iron_ingot"
     },
     "w": {
+=======
+    "O O",
+    "wOw",
+    "OwO"
+  ],
+  "key": {
+    "w": {
+      "item": "minecraft:iron_ingot"
+    },
+    "O": {
+>>>>>>> Stashed changes
       "item": "minecraft:chain"
     }
   },
