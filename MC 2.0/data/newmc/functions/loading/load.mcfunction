@@ -9,9 +9,6 @@ scoreboard players enable @a updateMC2
 ##FUNCIONES##
 function newmc:loading/api/load
 
-##FUNCIONES##
-function newmc:loading/api/load
-
 ##SCOREBOARDS##
 scoreboard objectives add crafteos dummy
 scoreboard objectives add ticks dummy
