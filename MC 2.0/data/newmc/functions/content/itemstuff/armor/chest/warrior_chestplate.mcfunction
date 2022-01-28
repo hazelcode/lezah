@@ -1,0 +1,1 @@
+effect give @a[predicate=newmc:itemdetect/chestplate/warrior_chestplate] resistance 1 1 true
