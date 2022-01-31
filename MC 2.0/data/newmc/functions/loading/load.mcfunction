@@ -11,7 +11,6 @@ function newmc:loading/api/load
 
 ##SCOREBOARDS##
 scoreboard objectives add crafteos dummy
-scoreboard objectives add ticks dummy
 ## scoreboard objectives add zombismatados killed:zombie
 
 ##TERMINAR##
