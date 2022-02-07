@@ -1,0 +1,2 @@
+execute if score @s lezah.dmgdealt matches 5.. run effect give @e[sort=nearest,tag=lookingAt,limit=1] levitation 1 2 true
+execute if score @s lezah.dmgdealt matches 5.. run scoreboard players reset @s lezah.dmgdealt

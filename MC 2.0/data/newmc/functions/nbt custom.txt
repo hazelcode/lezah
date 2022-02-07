@@ -1,5 +1,9 @@
 Este archivo es para demostrar las nbt custom en los items XD
 
+NBT de encantamientos custom
+Elegir encantamiento mediante su ID: {customEnchant:1}
+Elegir el nivel de ese encantamiento: {lvlEnchant:1}
+
 Herramientas y armas de piedra lisa
 Objetos aplicables: Herramientas y armas de piedra normal
 NBT: {liso:1}
@@ -7,3 +11,7 @@ NBT: {liso:1}
 Armadura del guerrero
 Objetos aplicables: Armadura de hierro
 NBT: {warrior:1}
+
+Encantamiento de Levitador
+Objetos aplicables: Espada de diamante y espada de netherite
+ID del encantamiento: 1
