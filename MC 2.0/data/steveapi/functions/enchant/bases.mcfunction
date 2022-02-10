@@ -1,2 +1,0 @@
-scoreboard objectives add lezah.dmgdealt custom:damage_dealt
-scoreboard objectives add lezah.dmgblocked custom:damage_blocked_by_shield
