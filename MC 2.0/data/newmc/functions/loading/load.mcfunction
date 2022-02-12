@@ -10,6 +10,7 @@ function newmc:loading/api/load
 
 ##SCOREBOARDS##
 scoreboard objectives add crafteos dummy
+scoreboard objectives add vida health
 
 ##TERMINAR##
 tellraw @a [{"text": "[Minecraft 2.0] ","color": "green"},{"text": "Recarga completa","color": "yellow"}]
