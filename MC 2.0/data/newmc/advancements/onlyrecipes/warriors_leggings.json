@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "unlock": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "newmc:warriors_leggings"
+        }
+      }
+    },
+    "rewards": {
+      "function": "newmc:warriors_leggings"
+    }
+  }
+  

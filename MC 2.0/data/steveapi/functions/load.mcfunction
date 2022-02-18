@@ -10,5 +10,8 @@ scoreboard objectives add playerKillCount playerKillCount
 scoreboard objectives add lang trigger
 scoreboard players enable @a lang
 
+## DATAPACKS ##
+function steveapi:datapacks
+
 ## MODDING ##
-function #steveapi:modding/load/namespace
+function #steveapi:modding/load/namespaces

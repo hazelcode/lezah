@@ -6,4 +6,4 @@ scoreboard players enable @a opTest
 scoreboard players enable @a lang
 
 ## MODDING ##
-function #steveapi:modding/tick/namespace
+function #steveapi:modding/tick/namespaces
