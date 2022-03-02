@@ -1,2 +1,0 @@
-execute if score @a[limit=1] hasVisualFire matches 1.. store result entity @s HasVisualFire byte 1 run scoreboard players get @s hasVisualFire 
-execute if score @a[limit=1] hasVisualFire matches ..-1 run scoreboard players reset @s hasVisualFire

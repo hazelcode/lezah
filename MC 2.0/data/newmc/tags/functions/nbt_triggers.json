@@ -1,7 +1,0 @@
-{
-    "values": [
-        "newmc:content/triggers/visualfire",
-        "newmc:content/triggers/setmaxhealth",
-        "newmc:content/triggers/getmaxhealth"
-    ]
-}

@@ -1,0 +1,2 @@
+execute if score @a[limit=1,tag=op] setDifficulty matches 1 run function newmc:content/mortalvirus/main
+execute if score @a[limit=1,tag=op,scores={forgetReload=0}] setDifficulty matches 1 run scoreboard players set @a forgetReload 1
