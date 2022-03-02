@@ -19,4 +19,4 @@ execute if score @a[limit=1,tag=op,scores={forgetReload=-1}] setDifficulty match
 execute if score @a[limit=1,tag=op,scores={forgetReload=0}] setDifficulty matches 0 run tellraw @a [{"text": "[Minecraft 2.0] ","color": "green"},{"text": "No hay dificultades que recargar","color": "yellow"}]
 
 ##TERMINAR##
-tellraw @a [{"text": "[Minecraft 2.0] ","color": "green"},{"text": "Recarga completa ","color": "yellow"},{"text": "[PÁGINA DEL DATAPACK]","color": "yellow","clickEvent": {"action":"open_url","value":"https://tacozyt.github.io/mc2.0"}}]
+tellraw @a [{"text": "[Minecraft 2.0] ","color": "green"},{"text": "Recarga completa ","color": "yellow"},{"text": "[PÁGINA DEL DATAPACK]","color": "gold","clickEvent": {"action":"open_url","value":"https://tacozyt.github.io/mc2.0"}}]
