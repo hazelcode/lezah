@@ -1,6 +1,5 @@
 {
     "values": [
-        "newmc:content/triggers/reload",
-        "newmc:content/triggers/difficulty"
+        "newmc:content/triggers/reload"
     ]
 }

@@ -1,2 +1,1 @@
 scoreboard objectives add reloadMC2 trigger
-scoreboard objectives add setDifficulty trigger
