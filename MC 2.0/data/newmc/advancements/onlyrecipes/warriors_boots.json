@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "unlock": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "newmc:warriors_boots"
+        }
+      }
+    },
+    "rewards": {
+      "function": "newmc:warriors_boots"
+    }
+  }
+  

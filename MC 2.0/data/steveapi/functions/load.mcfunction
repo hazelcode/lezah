@@ -5,3 +5,10 @@ scoreboard objectives add steveapi.muertes deathCount {"text":"[STEVE API] Muert
 scoreboard objectives add opTest trigger
 scoreboard players enable @a opTest
 scoreboard objectives add playerKillCount playerKillCount
+
+## TRIGGERS ##
+scoreboard objectives add lang trigger
+scoreboard players enable @a lang
+
+## MODDING ##
+function #steveapi:modding/load/namespaces

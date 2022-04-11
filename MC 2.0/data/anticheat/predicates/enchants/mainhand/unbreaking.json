@@ -1,0 +1,22 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "type": "minecraft:player",
+      "equipment": {
+        "mainhand": {
+          "tag": "anticheat:tools",
+          "enchantments": [
+            {
+              "enchantment": "minecraft:unbreaking",
+              "levels": {
+                "min": 4,
+                "max": 255
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+  
