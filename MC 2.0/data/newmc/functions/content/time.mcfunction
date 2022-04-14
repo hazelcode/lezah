@@ -1,2 +1,2 @@
-execute if predicate newmc:time/raining run title @a actionbar [{"text": "¡LLOVIENDO! ","color": "aqua","bold": true},{"text": "¡Cubrete y busca refugio!","color": "white","bold": false}]
-execute if predicate newmc:time/thundering run title @a actionbar [{"text": "¡TORMENTA! ","color": "aqua","bold": true},{"text": "¡Busca refugio y duerme!","color": "white","bold": false}]
+﻿execute if predicate newmc:time/raining run title @a actionbar [{"text": "¡LLOVIENDO! ","color": "aqua","bold": true},{"text": "¡Cubrete y busca refugio!","color": "white","bold": false}]
+execute if predicate newmc:time/thunder run title @a actionbar [{"text": "¡TORMENTA! ","color": "aqua","bold": true},{"text": "¡Busca refugio y duerme!","color": "white","bold": false}]

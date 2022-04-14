@@ -2,6 +2,7 @@
     "values": [
         "steveapi:load",
         "newmc:loading/load",
-        "anticheat:load"
+        "anticheat:load",
+        "newmc:loading/api/load"
     ]
 }
