@@ -1,1 +1,2 @@
 scoreboard objectives add reloadMC2 trigger
+scoreboard objectives add tutorialMode trigger
