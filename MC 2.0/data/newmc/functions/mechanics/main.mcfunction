@@ -1,0 +1,1 @@
+function newmc:mechanics/ice_skates/effects

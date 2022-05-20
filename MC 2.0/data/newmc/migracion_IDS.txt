@@ -1,0 +1,24 @@
+1 = Espada lisa
+2 = Yelmo del guerrero
+3 = Pechera del guerrero
+4 = Musleras del guerrero
+5 = Botas del guerrero
+
+DEL 1 AL 5 ESTÁN ESCRITOS EN EL CÓDIGO LEGACY DEL DATAPACK,
+LOS IDS NO SERÁN TOMADOS EN CUENTA A LA HORA DE GIVEARSE
+LOS ITEMS O PROGRAMAR CON ELLOS, EN CAMBIO: PARA GIVEAR,
+O PROGRAMAR, USA {liso:1} (PARA EL ID 1)
+Y {warrior:1} (PARA LOS IDS DEL 2 al 5)
+
+6 = Katana de esmeralda
+7 = Katana de diamante
+8 = Katana de netherite
+9 = Yelmo nocturno
+10 = Pechera nocturna
+11 = Musleras nocturnas
+12 = Botas nocturnas
+13 = Yelmo invisible
+14 = Pechera invisible
+15 = Musleras invisibles
+16 = Botas invisibles
+17 = Patines de hielo

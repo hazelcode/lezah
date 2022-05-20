@@ -1,6 +1,6 @@
 {
     "values": [
-        "newmc:content/triggers/reload",
-        "newmc:content/triggers/tutorialmode"
+        "newmc:old_content_folder/triggers/reload",
+        "newmc:old_content_folder/triggers/tutorialmode"
     ]
 }

@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "unlock": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "newmc:ice_skates"
+        }
+      }
+    },
+    "rewards": {
+      "function": "newmc:ice_skates"
+    }
+  }
+  
