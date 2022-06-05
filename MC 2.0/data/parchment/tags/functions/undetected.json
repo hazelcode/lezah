@@ -1,7 +1,6 @@
 {
   "replace": false,
   "values": [
-    "example:undetected",
     "#newmc:load_again"
   ]
 }
