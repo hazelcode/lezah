@@ -1,5 +1,6 @@
 {
     "values": [
+		"parchment:schedule_detection",
         "#newmc:load_again"
     ]
 }
