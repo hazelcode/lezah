@@ -17,6 +17,10 @@ Puedes experimentar la última experiencia beta del datapack, puedes probarlas, 
 
 [[DESCARGAS BETA]](https://tacozyt.github.io/mc2.0/downloadsbeta)
 
+**ADVERTENCIA**
+
+Éste datapack no es compatible con *PaperMC*, si creas un servidor con éste software, no se cargará ni ejecutará ninguna función del datapack y te lanzará una advertencia.
+
 ## Minecraft 1.16.x
 
 Incompatible, no hay descargas para Minecraft 1.16

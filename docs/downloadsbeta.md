@@ -9,6 +9,10 @@ Esto quiere decir que **no son versiones estables ni el producto final**
 [VERSIONES ESTABLES](https://tacozyt.github.io/mc2.0/downloads)
 [CHANGELOGS ÚLTIMA BETA](https://github.com/tacozyt/mc2.0/releases/latest)
 
+**ADVERTENCIA**
+
+Éste datapack no es compatible con *PaperMC*, si creas un servidor con éste software, no se cargará ni ejecutará ninguna función del datapack y te lanzará una advertencia.
+
 ## Minecraft 1.16.x
 
 Incompatible, no hay descargas para Minecraft 1.16
