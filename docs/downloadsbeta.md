@@ -46,3 +46,8 @@ Incompatible, no hay descargas para Minecraft 1.16
 
 [[DESCARGAR DATAPACK]](https://github.com/tacozyt/mc2.0/releases/download/beta5/Minecraft_2.0_Beta5_MC1.18.2.zip)
 [[DESCARGAR RESOURCEPACK]](https://github.com/tacozyt/mc2.0/releases/download/beta2/Minecraft_2.0_RP_Beta1_MC1.18.zip)
+
+
+## Minecraft 1.19
+
+¡Próximamente!
