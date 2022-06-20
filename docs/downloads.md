@@ -32,3 +32,7 @@ Aún no hay descargas
 ## Minecraft 1.18.x
 
 Aún no hay descargas
+
+## Minecraft 1.19.x
+
+Aún no hay descargas
