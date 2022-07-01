@@ -47,5 +47,5 @@ Aquí irá todo lo relacionado con nuevos tags NBT que proporciona el datapack
 
 **NBT:** `{"item_propose":"null"}`
 
-**Carácterísticas:**
+**Características:**
  - Se comportan como espadas normales (No tienen ninguna característica especial)
