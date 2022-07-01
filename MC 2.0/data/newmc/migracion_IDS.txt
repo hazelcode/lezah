@@ -10,6 +10,7 @@ LOS ITEMS O PROGRAMAR CON ELLOS, EN CAMBIO: PARA GIVEAR,
 O PROGRAMAR, USA {liso:1} (PARA EL ID 1)
 Y {warrior:1} (PARA LOS IDS DEL 2 al 5)
 
+ID NBT: {ID}
 6 = Katana de esmeralda
 7 = Katana de diamante
 8 = Katana de netherite
