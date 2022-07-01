@@ -22,3 +22,4 @@ Y {warrior:1} (PARA LOS IDS DEL 2 al 5)
 15 = Musleras invisibles
 16 = Botas invisibles
 17 = Patines de hielo
+Vaya cuanto tengo que hacer, uff... :(
