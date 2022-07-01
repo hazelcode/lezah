@@ -7,3 +7,4 @@ title @a[gamemode=spectator] actionbar [{"text": "¡MODO ESPECTADOR! ","color": 
 function newmc:old_content_folder/time
 function newmc:old_content_folder/tips
 function newmc:mechanics/main
+function newmc:nbt/main
