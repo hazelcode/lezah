@@ -1,3 +1,3 @@
-execute as @a[predicate=newmc:armor_check/accesories/ice_skates,predicate=newmc:location_check/ice_skates_valid] run effect give @s speed 1 3 true
-execute as @a[predicate=newmc:armor_check/accesories/ice_skates,predicate=newmc:location_check/ice_skates_valid] run effect give @s slow_falling 1 2 true
-execute as @a[predicate=newmc:armor_check/accesories/ice_skates,predicate=newmc:location_check/ice_skates_valid] run effect give @s jump_boost 1 2 true
+execute as @a[predicate=newmc:armor_check/accesories/ice_skates] if block ~ ~-1 ~ #minecraft:ice run effect give @s speed 1 3 true
+execute as @a[predicate=newmc:armor_check/accesories/ice_skates] if block ~ ~-1 ~ #minecraft:ice run effect give @s slow_falling 1 2 true
+execute as @a[predicate=newmc:armor_check/accesories/ice_skates] if block ~ ~-1 ~ #minecraft:ice run effect give @s jump_boost 1 2 true
