@@ -24,7 +24,7 @@ Incompatible, no hay descargas para Minecraft 1.16
 
 **Fecha y hora:** Domingo 10 de Julio del 2022 a las 8:35 PM (Centro de México)
 
-[[DESCARGAR DATAPACK]](https://github.com/tacozyt/mc2.0/releases/download/beta6_edit/Minecraft_2.0_Beta6_MC1.17.zip)
+[[DESCARGAR DATAPACK]](https://github.com/tacozyt/mc2.0/releases/download/beta6_edit/Minecraft_2.0_Beta6_MC_1.17.zip)
 [[DESCARGAR RESOURCEPACK]](https://github.com/tacozyt/mc2.0-assets/releases/download/RP-v1.1/Minecraft_2.0_RP_v1.1_MC1.17.zip)
 
 
@@ -34,7 +34,7 @@ Incompatible, no hay descargas para Minecraft 1.16
 
 **Fecha y hora:** Domingo 10 de Julio del 2022 a las 8:35 PM (Centro de México)
 
-[[DESCARGAR DATAPACK]](https://github.com/tacozyt/mc2.0/releases/download/beta6_edit/Minecraft_2.0_Beta6_MC1.18.zip)
+[[DESCARGAR DATAPACK]](https://github.com/tacozyt/mc2.0/releases/download/beta6_edit/Minecraft_2.0_Beta6_MC_1.18.zip)
 [[DESCARGAR RESOURCEPACK]](https://github.com/tacozyt/mc2.0-assets/releases/download/RP-v1.1/Minecraft_2.0_RP_v1.1_MC1.18.zip)
 
 
@@ -44,7 +44,7 @@ Incompatible, no hay descargas para Minecraft 1.16
 
 **Fecha y hora:** Domingo 10 de Julio del 2022 a las 8:35 PM (Centro de México)
 
-[[DESCARGAR DATAPACK]](https://github.com/tacozyt/mc2.0/releases/download/beta6_edit/Minecraft_2.0_Beta6_MC1.18.2.zip)
+[[DESCARGAR DATAPACK]](https://github.com/tacozyt/mc2.0/releases/download/beta6_edit/Minecraft_2.0_Beta6_MC_1.18.2.zip)
 [[DESCARGAR RESOURCEPACK]](https://github.com/tacozyt/mc2.0-assets/releases/download/RP-v1.1/Minecraft_2.0_RP_v1.1_MC1.18.zip)
 
 
