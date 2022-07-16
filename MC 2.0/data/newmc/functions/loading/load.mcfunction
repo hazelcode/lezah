@@ -15,4 +15,5 @@ scoreboard objectives add raidsVencidas custom:raid_win
 scoreboard objectives add maderaTalada broken:oak_log
 
 ##TERMINAR##
-tellraw @a [{"text": "[Minecraft 2.0] ","color": "green"},{"text": "Recarga completa ","color": "yellow"},{"text": "[PÁGINA DEL DATAPACK]","color": "gold","clickEvent": {"action":"open_url","value":"https://tacozyt.github.io/mc2.0"}}]
+tellraw @a [{"text": "[Minecraft 2.0] ","color": "green"},{"text": "Recarga completa ","color": "yellow"}]
+execute if score #DisableDatapackLink settings matches -1 run tellraw @a {"text": "[PÁGINA DEL DATAPACK]","color": "gold","clickEvent": {"action":"open_url","value":"https://tacozyt.github.io/mc2.0"}}
