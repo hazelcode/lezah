@@ -6,6 +6,7 @@ function #newmc:enable_triggers
 
 ##FUNCIONES##
 function newmc:loading/api/load
+function newmc:config
 
 ##SCOREBOARDS##
 scoreboard objectives add crafteos dummy

@@ -1,1 +1,2 @@
 function newmc:mechanics/ice_skates/effects
+function newmc:mechanics/disable_tnt
