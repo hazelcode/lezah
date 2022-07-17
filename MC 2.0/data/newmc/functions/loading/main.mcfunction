@@ -8,3 +8,4 @@ function newmc:old_content_folder/time
 function newmc:old_content_folder/tips
 function newmc:mechanics/main
 function newmc:nbt/main
+function newmc:settings/main
