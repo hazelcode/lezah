@@ -27,7 +27,7 @@ Incompatible, no hay descargas para Minecraft 1.16
 
 ## Minecraft 1.17.x
 
-Aún no hay descargas
+Incompatible, no hay descargas para Minecraft 1.17
 
 ## Minecraft 1.18.x
 
