@@ -14,6 +14,11 @@ scoreboard objectives add vida health
 scoreboard objectives add TEST dummy
 scoreboard objectives add raidsVencidas custom:raid_win
 scoreboard objectives add maderaTalada broken:oak_log
+scoreboard objectives add newmc.Data dummy
+
+##FIRST RUN Y ACTUALIZAR DATAPACK##
+execute unless score #FirstRun newmc.Data matches 1 run function newmc:loading/firstrun
+execute unless score #Version newmc.Data matches 7 run function newmc:loading/update
 
 ##TERMINAR##
 tellraw @a [{"text": "[Minecraft 2.0] ","color": "green"},{"text": "Recarga completa ","color": "yellow"}]
