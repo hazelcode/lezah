@@ -42,7 +42,7 @@ Incompatible. Soporte finalizado el 20 de Julio del 2022. Última actualización
 
 ## Minecraft 1.18.2
 
-**Versión:** Beta #6
+**Versión:** Beta #7
 
 **Fecha y hora:** Miércoles 20 de Julio del 2022 a las 3:51 PM (Centro de México)
 
