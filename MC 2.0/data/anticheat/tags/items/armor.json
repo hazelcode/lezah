@@ -1,8 +1,8 @@
 {
     "values": [
-        "#steveapi:helmet",
-        "#steveapi:chestplate",
-        "#steveapi:leggings",
-        "#steveapi:boots"
+        "#anticheat:items/helmet",
+        "#anticheat:items/chestplate",
+        "#anticheat:items/leggings",
+        "#anticheat:items/boots"
     ]
 }
