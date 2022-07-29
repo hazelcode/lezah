@@ -1,7 +1,0 @@
-{
-    "condition": "minecraft:match_tool",
-    "predicate": {
-      "tag": "steveapi:axes"
-    }
-  }
-  

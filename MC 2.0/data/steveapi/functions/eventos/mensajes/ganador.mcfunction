@@ -1,1 +1,0 @@
-tellraw @a [{"text":"[","color":"aqua"},{"text":"SERVIDOR","color":"yellow"},{"text":"]","color":"aqua"},{"text":"¡Tenemos a un ganador!","color":"green"}]
