@@ -1,8 +1,8 @@
 {
     "values": [
-        "#anticheat:helmet",
-        "#anticheat:chestplate",
-        "#anticheat:leggings",
-        "#anticheat:boots"
+        "#anticheat:items/helmet",
+        "#anticheat:items/chestplate",
+        "#anticheat:items/leggings",
+        "#anticheat:items/boots"
     ]
 }
