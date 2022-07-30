@@ -23,18 +23,20 @@ Puedes experimentar la última experiencia beta del datapack, puedes probarlas, 
 
 Éste datapack no es compatible con *PaperMC*, si creas un servidor con éste software, no se cargará ni ejecutará ninguna función del datapack y te lanzará una advertencia.
 
-## Minecraft 1.16.x
+## Versiones
+
+### Minecraft 1.16.x
 
 Incompatible, no hay descargas para Minecraft 1.16
 
-## Minecraft 1.17.x
+### Minecraft 1.17.x
 
 Incompatible, no hay descargas para Minecraft 1.17
 
-## Minecraft 1.18.x
+### Minecraft 1.18.x
 
 Aún no hay descargas
 
-## Minecraft 1.19.x
+### Minecraft 1.19.x
 
 Aún no hay descargas
