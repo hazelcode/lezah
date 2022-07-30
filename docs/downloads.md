@@ -6,7 +6,9 @@
 
 ### Dependencias
 
-Descarga opcionalmente [Steve API](https://github.com/tacozyt/steveapi/releases/latest), un datapack, porque usaremos cosas de ahí y después se quitará del datapack.
+También debes descargar los siguientes datapacks para que Minecraft 2.0 funcione correctamente
+
+ - [SteveAPI](https://github.com/tacozyt/steveapi/releases/latest)
 
 **POR AHORA ESTÁ INCLUIDO EN EL DATAPACK**
 
