@@ -9,16 +9,26 @@ Esto quiere decir que **no son versiones estables ni el producto final**
 [VERSIONES ESTABLES](https://tacozyt.github.io/mc2.0/downloads)
 [CHANGELOGS ÚLTIMA BETA](https://github.com/tacozyt/mc2.0/releases/latest)
 
-**ADVERTENCIA**
+## Notas adicionales
+
+### ADVERTENCIA
 
 Éste datapack no es compatible con *PaperMC*, si creas un servidor con éste software, no se cargará ni ejecutará ninguna función del datapack y te lanzará una advertencia.
 
-## Minecraft 1.16.x
+### Dependencias
+
+También debes descargar los siguientes datapacks para que Minecraft 2.0 funcione correctamente
+
+ - [SteveAPI v1.0](https://github.com/tacozyt/steveapi/releases/tag/v1.0)
+
+## Versiones
+
+### Minecraft 1.16.x
 
 Incompatible, no hay descargas para Minecraft 1.16
 
 
-## Minecraft 1.17.x
+### Minecraft 1.17.x
 
 Incompatible. Soporte finalizado el 20 de Julio del 2022. Última actualización para ésta versión:
 
@@ -30,7 +40,7 @@ Incompatible. Soporte finalizado el 20 de Julio del 2022. Última actualización
 [[DESCARGAR RESOURCEPACK]](https://github.com/tacozyt/mc2.0-assets/releases/download/RP-v1.1/Minecraft_2.0_RP_v1.1_MC1.17.zip)
 
 
-## Minecraft 1.18 & 1.18.1
+### Minecraft 1.18 & 1.18.1
 
 **Versión:** Beta #7
 
@@ -40,7 +50,7 @@ Incompatible. Soporte finalizado el 20 de Julio del 2022. Última actualización
 [[DESCARGAR RESOURCEPACK]](https://github.com/tacozyt/mc2.0-assets/releases/download/RP-v1.1/Minecraft_2.0_RP_v1.1_MC1.18.zip)
 
 
-## Minecraft 1.18.2
+### Minecraft 1.18.2
 
 **Versión:** Beta #7
 
@@ -50,6 +60,6 @@ Incompatible. Soporte finalizado el 20 de Julio del 2022. Última actualización
 [[DESCARGAR RESOURCEPACK]](https://github.com/tacozyt/mc2.0-assets/releases/download/RP-v1.1/Minecraft_2.0_RP_v1.1_MC1.18.zip)
 
 
-## Minecraft 1.19
+### Minecraft 1.19
 
 ¡Próximamente!
