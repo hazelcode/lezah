@@ -7,13 +7,13 @@
   ],
   "key": {
     "H": {
-      "tag": "minecraft:planks"
+      "item": "minecraft:iron_ingot"
     },
     "L": {
       "tag": "minecraft:wool"
     },
     "T": {
-      "item": "minecraft:stone"
+      "tag": "minecraft:planks"
     }
   },
   "result": {
