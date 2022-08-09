@@ -1,4 +1,4 @@
-[< Página principal](https://tacozyt.github.io/mc2.0)
+[< Página principal](https://tacozyt.github.io/lezah)
 
 # Descargas
 
@@ -17,7 +17,7 @@ Debido a pruebas está fusionado para que incluyamos probables características 
 ## Descargas beta
 Puedes experimentar la última experiencia beta del datapack, puedes probarlas, dar tu opinión, sugerir cambios y arreglos
 
-[[DESCARGAS BETA]](https://tacozyt.github.io/mc2.0/downloadsbeta)
+[[DESCARGAS BETA]](https://tacozyt.github.io/lezah/downloadsbeta)
 
 **ADVERTENCIA**
 

@@ -6,8 +6,8 @@ Aquí se publicarán las versiones beta del datapack
 
 Esto quiere decir que **no son versiones estables ni el producto final**
 
-[VERSIONES ESTABLES](https://tacozyt.github.io/mc2.0/downloads)
-[CHANGELOGS ÚLTIMA BETA](https://github.com/tacozyt/mc2.0/releases/latest)
+[VERSIONES ESTABLES](https://tacozyt.github.io/lezah/downloads)
+[CHANGELOGS ÚLTIMA BETA](https://github.com/tacozyt/lezah/releases/latest)
 
 ## Notas adicionales
 
@@ -36,8 +36,8 @@ Incompatible. Soporte finalizado el 20 de Julio del 2022. Última actualización
 
 **Fecha y hora:** Domingo 10 de Julio del 2022 a las 8:35 PM (Centro de México)
 
-[[DESCARGAR DATAPACK]](https://github.com/tacozyt/mc2.0/releases/download/beta6_edit/Minecraft_2.0_Beta6_MC_1.17.zip)
-[[DESCARGAR RESOURCEPACK]](https://github.com/tacozyt/mc2.0-assets/releases/download/RP-v1.1/Minecraft_2.0_RP_v1.1_MC1.17.zip)
+[[DESCARGAR DATAPACK]](https://github.com/tacozyt/lezah/releases/download/beta6_edit/Minecraft_2.0_Beta6_MC_1.17.zip)
+[[DESCARGAR RESOURCEPACK]](https://github.com/tacozyt/lezah-assets/releases/download/RP-v1.1/Minecraft_2.0_RP_v1.1_MC1.17.zip)
 
 
 ### Minecraft 1.18 & 1.18.1
@@ -46,8 +46,8 @@ Incompatible. Soporte finalizado el 20 de Julio del 2022. Última actualización
 
 **Fecha y hora:** Miércoles 20 de Julio del 2022 a las 3:51 PM (Centro de México)
 
-[[DESCARGAR DATAPACK]](https://github.com/tacozyt/mc2.0/releases/download/beta7/Minecraft_2.0_Beta7_MC_1.18.zip)
-[[DESCARGAR RESOURCEPACK]](https://github.com/tacozyt/mc2.0-assets/releases/download/RP-v1.1/Minecraft_2.0_RP_v1.1_MC1.18.zip)
+[[DESCARGAR DATAPACK]](https://github.com/tacozyt/lezah/releases/download/beta7/Minecraft_2.0_Beta7_MC_1.18.zip)
+[[DESCARGAR RESOURCEPACK]](https://github.com/tacozyt/lezah-assets/releases/download/RP-v1.1/Minecraft_2.0_RP_v1.1_MC1.18.zip)
 
 
 ### Minecraft 1.18.2
@@ -56,8 +56,8 @@ Incompatible. Soporte finalizado el 20 de Julio del 2022. Última actualización
 
 **Fecha y hora:** Miércoles 20 de Julio del 2022 a las 3:51 PM (Centro de México)
 
-[[DESCARGAR DATAPACK]](https://github.com/tacozyt/mc2.0/releases/download/beta7/Minecraft_2.0_Beta7_MC_1.18.2.zip)
-[[DESCARGAR RESOURCEPACK]](https://github.com/tacozyt/mc2.0-assets/releases/download/RP-v1.1/Minecraft_2.0_RP_v1.1_MC1.18.zip)
+[[DESCARGAR DATAPACK]](https://github.com/tacozyt/lezah/releases/download/beta7/Minecraft_2.0_Beta7_MC_1.18.2.zip)
+[[DESCARGAR RESOURCEPACK]](https://github.com/tacozyt/lezah-assets/releases/download/RP-v1.1/Minecraft_2.0_RP_v1.1_MC1.18.zip)
 
 
 ### Minecraft 1.19

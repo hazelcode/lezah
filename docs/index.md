@@ -4,4 +4,4 @@
 
 ¡Hola, bienvenido!
 
-[DESCARGAR DATAPACK](https://tacozyt.github.io/mc2.0/downloads)
+[DESCARGAR DATAPACK](https://tacozyt.github.io/lezah/downloads)
