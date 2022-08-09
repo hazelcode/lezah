@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "unlock": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "newmc:emerald_katana"
+        }
+      }
+    },
+    "rewards": {
+      "function": "newmc:emerald_katana"
+    }
+  }
+  

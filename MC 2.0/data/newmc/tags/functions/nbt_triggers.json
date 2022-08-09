@@ -1,7 +1,7 @@
 {
     "values": [
-        "newmc:content/triggers/visualfire",
-        "newmc:content/triggers/setmaxhealth",
-        "newmc:content/triggers/getmaxhealth"
+        "newmc:old_content_folder/triggers/visualfire",
+        "newmc:old_content_folder/triggers/setmaxhealth",
+        "newmc:old_content_folder/triggers/getmaxhealth"
     ]
 }

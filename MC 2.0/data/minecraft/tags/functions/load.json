@@ -1,5 +1,6 @@
 {
+	"replace": false
     "values": [
-        "#newmc:load_again"
+		"parchment:schedule_detection"
     ]
 }

@@ -1,0 +1,3 @@
+function newmc:old_content_folder/itemstuff/espadalisa
+function newmc:old_content_folder/itemstuff/netherite_axe
+function newmc:old_content_folder/itemstuff/armor/warrior/armor

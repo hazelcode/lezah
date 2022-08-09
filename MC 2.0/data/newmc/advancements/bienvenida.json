@@ -1,22 +1,22 @@
 {
-    "display": {
-      "icon": {
-        "item": "minecraft:player_head"
-      },
-      "title": "¡Bienvenido, Minecraftero!",
-      "description": "Has llegado a este mundo",
-      "frame": "goal",
-      "show_toast": true,
-      "announce_to_chat": true,
-      "hidden": false
+  "display": {
+    "icon": {
+      "item": "minecraft:player_head"
     },
-    "criteria": {
-      "requirement": {
-        "trigger": "minecraft:impossible"
-      }
-    },
-    "rewards": {
-      "function": "newmc:bienvenida"
+    "title": "¡Bienvenido, Minecraftero!",
+    "description": "¡Has llegado a éste mundo!",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "parent": "newmc:newmc",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible"
     }
+  },
+  "rewards": {
+    "function": "newmc:bienvenida"
   }
-  
+}

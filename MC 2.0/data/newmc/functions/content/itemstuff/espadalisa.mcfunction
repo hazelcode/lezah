@@ -1,1 +1,0 @@
-effect give @a[predicate=newmc:itemdetect/mainhand/espada_lisa] haste 1 1 true

@@ -1,0 +1,21 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:cake"
+      },
+      "title": "Héroe maestro",
+      "description": "Gana 3 raids",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "newmc:bienvenida",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:impossible"
+      }
+    },
+    "rewards": {
+      "experience": 250
+    }
+  }
+  
