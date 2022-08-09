@@ -1,1 +1,0 @@
-function newmc:game_events/bienvenida

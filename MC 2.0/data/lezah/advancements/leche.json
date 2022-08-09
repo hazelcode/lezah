@@ -1,0 +1,31 @@
+{
+  "parent":"lezah:bienvenida",
+  "display": {
+    "icon": {
+      "item": "minecraft:zombie_head"
+    },
+    "title": {
+      "text": "El sabor curativo de la leche",
+      "color": "white",
+      "bold": true
+    },
+    "description": "Una cubeta de leche te curará todos los males",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "minecraft:milk_bucket"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {}
+}

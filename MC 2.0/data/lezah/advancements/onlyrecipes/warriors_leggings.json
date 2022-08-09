@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "unlock": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "lezah:warriors_leggings"
+        }
+      }
+    },
+    "rewards": {
+      "function": "lezah:warriors_leggings"
+    }
+  }
+  

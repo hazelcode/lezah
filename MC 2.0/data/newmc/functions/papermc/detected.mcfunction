@@ -1,2 +1,0 @@
-tellraw @a [{"text": "ADVERTENCIA: ","color": "red","bold": true},{"text": "Tu servidor no es compatible con Minecraft 2.0, tu servidor está usando PaperMC, debes cambiarte a Vanilla u otro software de servidor.","color": "yellow","bold": false}]
-tellraw @a {"text": "El datapack no se cargó totalmente.","color": "red"}

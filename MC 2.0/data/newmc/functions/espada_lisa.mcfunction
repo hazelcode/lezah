@@ -1,1 +1,0 @@
-function newmc:recipes/espada_lisa

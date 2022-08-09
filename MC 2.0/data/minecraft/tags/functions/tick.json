@@ -1,8 +1,8 @@
 {
     "replace": false,
     "values": [
-        "newmc:loading/main",
-        "newmc:loading/api/main",
+        "lezah:loading/main",
+        "lezah:loading/api/main",
         "anticheat:main"
     ]
 }

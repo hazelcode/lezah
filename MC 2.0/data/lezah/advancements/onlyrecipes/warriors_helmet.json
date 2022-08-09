@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "unlock": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "lezah:warriors_helmet"
+        }
+      }
+    },
+    "rewards": {
+      "function": "lezah:warriors_helmet"
+    }
+  }
+  

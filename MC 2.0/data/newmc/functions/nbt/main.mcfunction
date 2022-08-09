@@ -1,1 +1,0 @@
-function newmc:nbt/item_propose/apply_modifiers

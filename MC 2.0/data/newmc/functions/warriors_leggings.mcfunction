@@ -1,1 +1,0 @@
-function newmc:recipes/warriors_leggings
