@@ -1,9 +1,9 @@
-advancement revoke @s only lezah:onlyrecipes/emerald_katana
-recipe take @s lezah:emerald_katana
+advancement revoke @s only newmc:onlyrecipes/emerald_katana
+recipe take @s newmc:emerald_katana
 
 execute store result score @s crafteos run clear @s command_block
 
-execute if score @s crafteos matches 1.. run summon item ~ ~ ~ {Tags:["tagtemporal"],Item:{id:"diamond_sword",Count:1b,tag:{ID:6,display:{Name:'[{"text":"Katana de esmeralda","italic":false}]'},"item_propose":"pvp",AttributeModifiers:[{Slot:"mainhand",AttributeName:"minecraft:generic.attack_damage",Name:"minecraft:generic.attack_damage",Amount:7,Operation:0,UUID:[I; 1,1,1,1]},{Slot:"mainhand",AttributeName:"minecraft:generic.attack_speed",Name:"minecraft:generic.attack_speed",Amount:1.3,Operation:0,UUID:[I; 1,1,1,1]}]}}}
+execute if score @s crafteos matches 1.. run summon item ~ ~ ~ {Tags:["tagtemporal"],Item:{id:"diamond_sword",Count:1b,tag:{ID:6,display:{Name:'[{"text":"Katana de esmeralda","italic":false}]'},"item_propose":"pvp",AttributeModifiers:[{Slot:"mainhand",AttributeName:"minecraft:generic.attack_damage",Name:"minecraft:generic.attack_damage",Amount:7,Operation:0,UUID:[I; 1,1,1,1]},{Slot:"mainhand",AttributeName:"minecraft:generic.attack_speed",Name:"minecraft:generic.attack_speed",Amount:0.3,Operation:0,UUID:[I; 1,1,1,1]}]}}}
 
 execute if score #DisableCraftingSounds settings matches -1 run playsound block.anvil.use master @s ~ ~ ~
 
