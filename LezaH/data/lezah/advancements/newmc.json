@@ -1,0 +1,18 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:grass_block"
+      },
+      "title": "LezaH Datapack",
+      "description": "¡Bienvenido a LezaH Datapack!",
+      "frame": "goal",
+      "show_toast": false,
+      "announce_to_chat": false
+    },
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:tick"
+      }
+    }
+  }
+  

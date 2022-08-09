@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "unlock": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "lezah:emerald_katana"
+        }
+      }
+    },
+    "rewards": {
+      "function": "lezah:emerald_katana"
+    }
+  }
+  

@@ -1,0 +1,2 @@
+function lezah:settings/disable_tnt
+function lezah:settings/annoying_slimes

@@ -1,2 +1,0 @@
-tellraw @a [{"text": "[SteveAPI] ","color": "green"},{"text": "Cargando Minecraft 2.0...","color": "yellow"}]
-tellraw @a [{"text": "[Minecraft 2.0] ","color": "green"},{"text": "Conexión recibida, cargando...","color": "yellow"}]

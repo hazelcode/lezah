@@ -1,0 +1,1 @@
+effect give @a[predicate=lezah:hand_items/mainhand/espada_lisa] haste 1 1 true

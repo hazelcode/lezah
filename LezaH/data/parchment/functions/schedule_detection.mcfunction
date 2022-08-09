@@ -1,0 +1,1 @@
+schedule function parchment:paper_detect 45t append

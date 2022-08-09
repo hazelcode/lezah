@@ -1,1 +1,0 @@
-tellraw @a {"text": "Minecraft 2.0 Anticheat ON","color": "green"}

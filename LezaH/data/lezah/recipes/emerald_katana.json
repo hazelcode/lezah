@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "RYR",
+    "RYR",
+    "RTR"
+  ],
+  "key": {
+    "R": {
+      "item": "minecraft:emerald_block"
+    },
+    "Y": {
+      "item": "minecraft:diamond_sword"
+    },
+    "T": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "result": {
+    "item": "minecraft:command_block",
+    "count": 1
+  }
+}

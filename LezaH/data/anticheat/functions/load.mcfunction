@@ -1,0 +1,1 @@
+tellraw @a {"text": "LezaH Datapack Anticheat ON","color": "green"}

@@ -1,0 +1,9 @@
+Este archivo es para demostrar las nbt custom en los items XD
+
+Herramientas y armas de piedra lisa
+Objetos aplicables: Herramientas y armas de piedra normal
+NBT: {liso:1}
+
+Armadura del guerrero
+Objetos aplicables: Armadura de hierro
+NBT: {warrior:1}
