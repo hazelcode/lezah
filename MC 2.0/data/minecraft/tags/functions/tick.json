@@ -1,9 +1,0 @@
-{
-    "replace": false,
-    "values": [
-        "newmc:loading/main",
-        "newmc:loading/api/main",
-        "steveapi:main",
-        "anticheat:main"
-    ]
-}

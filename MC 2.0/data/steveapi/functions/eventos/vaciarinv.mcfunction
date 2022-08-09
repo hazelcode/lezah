@@ -1,1 +1,0 @@
-clear @s[type=player]
