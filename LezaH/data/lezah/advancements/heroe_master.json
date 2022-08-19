@@ -3,8 +3,12 @@
       "icon": {
         "item": "minecraft:cake"
       },
-      "title": "Héroe maestro",
-      "description": "Gana 3 raids",
+      "title": {
+        "translate": "advancements.lezah.master_heroe.title"
+      },
+      "description": {
+        "translate": "advancements.lezah.master_heroe.desc"
+      },
       "show_toast": true,
       "announce_to_chat": true
     },

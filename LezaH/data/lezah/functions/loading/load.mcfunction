@@ -1,4 +1,4 @@
-tellraw @a [{"text": "[LezaH Datapack] ","color": "green"},{"text": "Recargando...","color": "yellow"}]
+tellraw @a [{"text": "[LezaH Datapack] ","color": "green"},{"translate":"text.lezah.reloading","color": "yellow"}]
 
 ##TRIGGERS##
 function #lezah:add_triggers
@@ -21,5 +21,5 @@ execute unless score #FirstRun lezah.Data matches 1 run function lezah:loading/f
 execute unless score #Version lezah.Data matches 7 run function lezah:loading/update
 
 ##TERMINAR##
-tellraw @a [{"text": "[LezaH Datapack] ","color": "green"},{"text": "Recarga completa ","color": "yellow"}]
-execute if score #DisableDatapackLink settings matches -1 run tellraw @a {"text": "[PÁGINA DEL DATAPACK]","color": "gold","clickEvent": {"action":"open_url","value":"https://tacozyt.github.io/mc2.0"}}
+tellraw @a [{"text": "[LezaH Datapack] ","color": "green"},{"translate":"text.lezah.reload_complete","color": "yellow"}]
+execute if score #DisableDatapackLink settings matches -1 run tellraw @a {"translate":"text.lezah.datapack_page","color": "gold","clickEvent": {"action":"open_url","value":"https://tacozyt.github.io/mc2.0"}}

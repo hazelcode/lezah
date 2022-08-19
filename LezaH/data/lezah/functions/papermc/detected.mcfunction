@@ -1,2 +1,2 @@
-tellraw @a [{"text": "ADVERTENCIA: ","color": "red","bold": true},{"text": "Tu servidor no es compatible con LezaH Datapack, tu servidor está usando PaperMC, debes cambiarte a Vanilla u otro software de servidor.","color": "yellow","bold": false}]
-tellraw @a {"text": "El datapack no se cargó totalmente.","color": "red"}
+tellraw @a [{"translate":"text.lezah.papermc.warn","color": "red","bold": true},{"translate":"text.lezah.papermc.compatibility","color": "yellow","bold": false}]
+tellraw @a {"translate":"text.lezah.papermc.load","color": "red"}

@@ -3,8 +3,12 @@
     "icon": {
       "item": "minecraft:player_head"
     },
-    "title": "Sicario",
-    "description": "Mata a 25 zombis",
+    "title": {
+      "translate": "advancements.lezah.hitman.title"
+    },
+    "description": {
+      "translate": "advancements.lezah.hitman.desc"
+    },
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": true,

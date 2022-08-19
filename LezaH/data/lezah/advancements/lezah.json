@@ -3,8 +3,12 @@
       "icon": {
         "item": "minecraft:grass_block"
       },
-      "title": "LezaH Datapack",
-      "description": "¡Bienvenido a LezaH Datapack!",
+      "title": {
+        "translate": "advancements.lezah.datapack.title"
+      },
+      "description": {
+        "translate": "advancements.lezah.datapack.desc"
+      },
       "frame": "goal",
       "show_toast": false,
       "announce_to_chat": false

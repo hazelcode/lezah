@@ -3,8 +3,12 @@
     "icon": {
       "item": "minecraft:player_head"
     },
-    "title": "¡Bienvenido, Minecraftero!",
-    "description": "¡Has llegado a éste mundo!",
+    "title": {
+      "translate": "advancements.lezah.welcome.title"
+    },
+    "description": {
+      "translate": "advancements.lezah.welcome.desc"
+    },
     "frame": "challenge",
     "show_toast": true,
     "announce_to_chat": false,

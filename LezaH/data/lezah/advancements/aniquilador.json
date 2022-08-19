@@ -3,8 +3,12 @@
       "icon": {
         "item": "minecraft:player_head"
       },
-      "title": "Aniquilador",
-      "description": "Mata a 10 zombis",
+      "title": {
+        "translate": "advancements.lezah.killer.title"
+      },
+      "description": {
+        "translate": "advancements.lezah.killer.desc"
+      },
       "frame": "task",
       "show_toast": true,
       "announce_to_chat": true,

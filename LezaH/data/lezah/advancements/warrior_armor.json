@@ -4,8 +4,12 @@
       "item": "minecraft:iron_chestplate",
       "nbt": "{warrior:1}"
     },
-    "title": "¡Guerreros al ataque!",
-    "description": "Porta la armadura completa del guerrero",
+    "title": {
+      "translate": "advancements.lezah.warrior_armor.title"
+    },
+    "description": {
+      "translate": "advancements.lezah.warrior_armor.desc"
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true
