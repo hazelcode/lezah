@@ -3,7 +3,7 @@ recipe take @s newmc:netherite_katana
 
 execute store result score @s crafteos run clear @s command_block
 
-execute if score @s crafteos matches 1.. run summon item ~ ~ ~ {Tags:["tagtemporal"],Item:{id:"netherite_sword",Count:1b,tag:{ID:8,display:{Name:'[{"translate":"item.lezah.netherite_katana","italic":false}]'},"item_propose":"pvp",AttributeModifiers:[{Slot:"mainhand",AttributeName:"minecraft:generic.attack_damage",Name:"minecraft:generic.attack_damage",Amount:9,Operation:0,UUID:[I; 1,1,1,1]},{Slot:"mainhand",AttributeName:"minecraft:generic.attack_speed",Name:"minecraft:generic.attack_speed",Amount:0.3,Operation:0,UUID:[I; 1,1,1,1]}]}}}
+execute if score @s crafteos matches 1.. run summon item ~ ~ ~ {Tags:["tagtemporal"],Item:{id:"netherite_sword",Count:1b,tag:{ID:8,display:{Name:'[{"translate":"item.lezah.netherite_katana","italic":false}]'},AttributeModifiers:[{Slot:"mainhand",AttributeName:"minecraft:generic.attack_damage",Name:"minecraft:generic.attack_damage",Amount:9,Operation:0,UUID:[I; 1,1,1,1]},{Slot:"mainhand",AttributeName:"minecraft:generic.attack_speed",Name:"minecraft:generic.attack_speed",Amount:0.3,Operation:0,UUID:[I; 1,1,1,1]}]}}}
 
 execute if score #DisableCraftingSounds settings matches -1 run playsound entity.ender_dragon.ambient master @s ~ ~ ~
 
