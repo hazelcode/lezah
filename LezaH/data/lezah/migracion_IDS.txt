@@ -23,6 +23,5 @@ ID NBT: {ID}
 15 = Musleras invisibles
 16 = Botas invisibles
 17 = Patines de hielo
-18 = Escudo de diamante
-19 = Mazo de constructor
+18 = Mazo de constructor
 Vaya cuanto tengo que hacer, uff... :(
