@@ -5,7 +5,7 @@
       "type": "minecraft:player",
       "equipment": {
         "chest": {
-          "items": [
+          "feet": [
             "minecraft:iron_boots"
           ],
           "nbt": "{warrior:1}"
