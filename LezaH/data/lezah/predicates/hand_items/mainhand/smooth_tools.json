@@ -5,9 +5,7 @@
       "type": "minecraft:player",
       "equipment": {
         "mainhand": {
-          "items": [
-            "minecraft:stone_sword"
-          ],
+          "tag": "lezah:smooth_tools",
           "nbt": "{liso:1}"
         }
       }
