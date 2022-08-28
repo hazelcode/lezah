@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "unlock": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "lezah:pala_lisa"
+        }
+      }
+    },
+    "rewards": {
+      "function": "lezah:pala_lisa"
+    }
+  }
+  

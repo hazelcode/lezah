@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "unlock": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "lezah:hacha_lisa"
+        }
+      }
+    },
+    "rewards": {
+      "function": "lezah:hacha_lisa"
+    }
+  }
+  
