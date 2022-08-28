@@ -1,4 +1,4 @@
-1 = Espada lisa
+1 = Herramientas de piedra lisa (Espada, hacha, pico, pala y azada)
 2 = Yelmo del guerrero
 3 = Pechera del guerrero
 4 = Musleras del guerrero
