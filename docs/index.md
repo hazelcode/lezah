@@ -1,4 +1,4 @@
-# MINECRAFT 2.0
+# LezaH Datapack
 
 **Un datapack que agrega cosas nuevas a Minecraft Java**
 
