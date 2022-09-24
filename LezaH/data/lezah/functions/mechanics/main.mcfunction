@@ -1,1 +1,0 @@
-function lezah:mechanics/invisible_armor/apply
