@@ -1,0 +1,3 @@
+execute store result score @a[tag=steve.targetGetPos] steve.Pos0 as @a[tag=steve.targetGetPos] at @a[tag=steve.targetGetPos] run data get entity @s Pos[0]
+execute store result score @a[tag=steve.targetGetPos] steve.Pos1 as @a[tag=steve.targetGetPos] at @a[tag=steve.targetGetPos] run data get entity @s Pos[1]
+execute store result score @a[tag=steve.targetGetPos] steve.Pos2 as @a[tag=steve.targetGetPos] at @a[tag=steve.targetGetPos] run data get entity @s Pos[2]
