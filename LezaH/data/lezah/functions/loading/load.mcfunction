@@ -15,9 +15,6 @@ scoreboard objectives add TEST dummy
 scoreboard objectives add raidsVencidas custom:raid_win
 scoreboard objectives add maderaTalada broken:oak_log
 scoreboard objectives add lezah.Data dummy
-scoreboard objectives add steve.Pos0 dummy
-scoreboard objectives add steve.Pos1 dummy
-scoreboard objectives add steve.Pos2 dummy
 
 ##FIRST RUN Y ACTUALIZAR DATAPACK##
 execute unless score #FirstRun lezah.Data matches 1 run function lezah:loading/firstrun
