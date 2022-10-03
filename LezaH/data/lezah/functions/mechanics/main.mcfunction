@@ -1,0 +1,1 @@
+function lezah:mechanics/compass
