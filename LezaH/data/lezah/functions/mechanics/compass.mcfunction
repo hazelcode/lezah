@@ -1,8 +1,7 @@
 # Detectar la brujula
-tag @a[predicate=lezah:hand_items/mainhand/compass] add steve.targetGetPos
-tag @a[predicate=!lezah:hand_items/mainhand/compass] remove steve.targetGetPos
-tag @a[predicate=lezah:hand_items/offhand/compass] add steve.targetGetPos
-tag @a[predicate=!lezah:hand_items/offhand/compass] remove steve.targetGetPos
+execute as @a unless entity @s[predicate=lezah:hand_items/offhand/compass] if entity @s[predicate=lezah:hand_items/mainhand/compass] run tag @s add steve.targetGetPos
+execute as @a unless entity @s[predicate=lezah:hand_items/mainhand/compass] if entity @s[predicate=lezah:hand_items/offhand/compass] run tag @s add steve.targetGetPos
+tag @a[predicate=!lezah:hand_items/mainhand/compass,predicate=!lezah:hand_items/offhand/compass] remove steve.targetGetPos
 # Obtener las coordenadas
 execute as @a[predicate=lezah:hand_items/mainhand/compass] run function steveapi:call/features/getpos
 execute as @a[predicate=lezah:hand_items/offhand/compass] run function steveapi:call/features/getpos
