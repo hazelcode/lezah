@@ -8,3 +8,4 @@ function lezah:old_content_folder/time
 function lezah:mechanics/main
 function lezah:nbt/main
 function lezah:steve.settings/main
+function lezah:entity/pet_names
