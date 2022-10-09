@@ -74,6 +74,6 @@ Incompatible. Soporte finalizado el 20 de Julio del 2022. Última actualización
 
 **Fecha y hora:** Domingo 9 de Octubre del 2022 a las ?:?? PM (Centro de México)
 
-[[DESCARGAR DATAPACK]](https://github.com/tacozyt/lezah/releases/download/beta8/LezaH_DP_Beta7_MC_1.19.zip)
+[[DESCARGAR DATAPACK]](https://github.com/tacozyt/lezah/releases/download/beta8/LezaH_DP_Beta8_MC_1.19.zip)
 [[DESCARGAR RESOURCEPACK]](https://github.com/tacozyt/lezah-assets/releases/download/RP-v1.2/LezaH_DP_RP_v1.1_MC1.19.zip)
 
