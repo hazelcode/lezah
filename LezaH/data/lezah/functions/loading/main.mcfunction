@@ -9,3 +9,4 @@ function lezah:mechanics/main
 function lezah:nbt/main
 function lezah:steve.settings/main
 function lezah:entity/pet_names
+function lezah:game_events/main
