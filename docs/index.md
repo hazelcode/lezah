@@ -6,8 +6,8 @@
 
 [DESCARGAR DATAPACK](https://tacozyt.github.io/lezah/downloads)
 
-# Actualización: 9 de Octubre de 2022
+# Actualización: 21 de Octubre de 2022
 
-LezaH Datapack se ha actualizado a Minecraft 1.19, y por la función nueva que incluye las brújulas nuevas de la 1.19, el datapack ya no es **totatlemnte compatible** con Minecraft 1.18. Asi que, oficialmente, LezaH Datapack ahora es un datapack que es totalmente compatible solo con Minecraft 1.19.
-
-Aunque quizá todavía sea parcialmente compatible con Minecraft 1.18, aún no se sabe.
+No habrá Beta #9 alrededor de éstas semanas, debido a que se acerca la Datapack Jam 5 de Planet Minecraft
+La siguiente semana estaré enfocado más a la Datapack Jam 5, y después de ése evento me tomará varias semanas
+empezar a trabajar en la Beta #9
