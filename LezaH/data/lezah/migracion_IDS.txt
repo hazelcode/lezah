@@ -14,14 +14,7 @@ ID NBT: {ID}
 6 = Katana de esmeralda
 7 = Katana de diamante
 8 = Katana de netherite
-9 = Yelmo nocturno
-10 = Pechera nocturna
-11 = Musleras nocturnas
-12 = Botas nocturnas
-13 = Yelmo invisible
-14 = Pechera invisible
-15 = Musleras invisibles
-16 = Botas invisibles
+9 = Vara de trueno
+10-16 = Ideas canceladas
 17 = Patines de hielo
-18 = Mazo de constructor
 Vaya cuanto tengo que hacer, uff... :(
