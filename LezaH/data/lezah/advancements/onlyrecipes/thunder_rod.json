@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "unlock": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "lezah:thunder_rod"
+        }
+      }
+    },
+    "rewards": {
+      "function": "lezah:thunder_rod"
+    }
+  }
+  
