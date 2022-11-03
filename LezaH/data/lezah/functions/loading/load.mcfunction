@@ -15,6 +15,7 @@ scoreboard objectives add TEST dummy
 scoreboard objectives add raidsVencidas custom:raid_win
 scoreboard objectives add maderaTalada broken:oak_log
 scoreboard objectives add lezah.Data dummy
+scoreboard objectives add lezah.varaTrueno used:carrot_on_a_stick
 
 ##BOSSBARS##
 #NO HAY NINGUNA AÚN#
