@@ -1,1 +1,0 @@
-playsound item.goat_horn.play neutral @s ~ ~ ~

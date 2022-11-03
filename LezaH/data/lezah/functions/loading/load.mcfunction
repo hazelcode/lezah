@@ -15,13 +15,9 @@ scoreboard objectives add TEST dummy
 scoreboard objectives add raidsVencidas custom:raid_win
 scoreboard objectives add maderaTalada broken:oak_log
 scoreboard objectives add lezah.Data dummy
-scoreboard objectives add lezah.EntsLeft dummy
-scoreboard objectives add lezah.RoundsLeft dummy
-scoreboard objectives add lezah.Round dummy
-scoreboard objectives add lezah.Raid dummy
 
 ##BOSSBARS##
-bossbar add lezah:raid {"text":"Raid. Entidades restantes: ","score":{"name": "#EntityCount","objective": "lezah.EntsLeft"},"color": "yellow"}
+#NO HAY NINGUNA AÚN#
 
 ##FIRST RUN Y ACTUALIZAR DATAPACK##
 execute unless score #FirstRun lezah.Data matches 1 run function lezah:loading/firstrun
