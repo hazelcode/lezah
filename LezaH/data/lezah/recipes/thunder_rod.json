@@ -1,7 +1,9 @@
 {
   "type": "minecraft:crafting_shaped",
   "pattern": [
-    "rSc"
+	" g ",
+    "rSc",
+	" g "
   ],
   "key": {
     "r": {
@@ -12,7 +14,10 @@
     },
     "c": {
       "item": "minecraft:copper_ingot"
-    }
+    },
+	"g": {
+		"item": "minecraft:gold_nugget"
+	}
   },
   "result": {
     "item": "minecraft:command_block",
