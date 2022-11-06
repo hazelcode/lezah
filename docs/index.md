@@ -6,9 +6,12 @@
 
 [DESCARGAR DATAPACK](https://tacozyt.github.io/lezah/downloads)
 
-# Actualización: 21 de Octubre de 2022
+# Actualización: 6 de Noviembre de 2022
 
-No habrá Beta #9 alrededor de éstas semanas, debido a que se acerca la Datapack Jam 5 de Planet Minecraft
+Ya se está trabajando en la Beta #9 pero incluye muy poco contenido nuevo
 
-La siguiente semana estaré enfocado más a la Datapack Jam 5, y después de ése evento me tomará varias semanas
-empezar a trabajar en la Beta #9
+No tengo ni idea de qué más meter, ya que se me están acabando las ideas
+
+*Atentamente*
+
+*-LezaHMC75*
