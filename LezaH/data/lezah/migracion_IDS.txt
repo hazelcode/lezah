@@ -1,4 +1,4 @@
-1 = Herramientas de piedra lisa (Espada, hacha, pico, pala y azada)
+﻿1 = Herramientas de piedra lisa (Espada, hacha, pico, pala y azada)
 2 = Yelmo del guerrero
 3 = Pechera del guerrero
 4 = Musleras del guerrero
@@ -15,6 +15,7 @@ ID NBT: {ID}
 7 = Katana de diamante
 8 = Katana de netherite
 9 = Vara de trueno
-10-16 = Ideas canceladas
+10 = Espada Bugeada
+11-16 = Ideas canceladas
 17 = Patines de hielo
 Vaya cuanto tengo que hacer, uff... :(

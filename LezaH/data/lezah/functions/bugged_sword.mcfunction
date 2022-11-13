@@ -1,0 +1,1 @@
+function lezah:recipes/bugged_sword
