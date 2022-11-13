@@ -1,13 +1,13 @@
 advancement revoke @s only lezah:game_events/bugged_sword_hurt
 ## LA CAGUÉ Y DURO XDDDDDDDDDDD
-execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @e[distance=0.1..7,sort=nearest] run summon tnt
-execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @e[distance=0.1..7,sort=nearest] run summon creeper
-execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @e[distance=0.1..7,sort=nearest] run summon lightning_bolt
-execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @e[distance=0.1..7,sort=nearest] run summon chest_minecart
-execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @e[distance=0.1..7,sort=nearest] run summon zombified_piglin
-execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @e[distance=0.1..7,sort=nearest] run summon bee
-execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @e[distance=0.1..7,sort=nearest] run summon witch
-execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @e[distance=0.1..7,sort=nearest] run summon salmon
+execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @e[distance=0.1..5,limit=1] run summon tnt
+execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @e[distance=0.1..5,limit=1] run summon creeper
+execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @e[distance=0.1..5,limit=1] run summon lightning_bolt
+execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @e[distance=0.1..5,limit=1] run summon chest_minecart
+execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @e[distance=0.1..5,limit=1] run summon zombified_piglin
+execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @e[distance=0.1..5,limit=1] run summon bee
+execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @e[distance=0.1..5,limit=1] run summon witch
+execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @e[distance=0.1..5,limit=1] run summon salmon
 execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @s run give @s acacia_boat
 execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @s run give @s acacia_button
 execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @s run give @s golden_apple
