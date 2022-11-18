@@ -44,6 +44,8 @@ Incompatible. Soporte finalizado el 20 de Julio del 2022. Última actualización
 
 ### Minecraft 1.18 & 1.18.1
 
+Incompatible parcialmente. Soporte parcial finalizado el 9 de Octubre del 2022. Última actualización para ésta versión:
+
 **Versión:** Beta #7
 
 **Dependencias:** [SteveAPI v1.0](https://github.com/tacozyt/steveapi/releases/tag/v1.0)
@@ -55,6 +57,8 @@ Incompatible. Soporte finalizado el 20 de Julio del 2022. Última actualización
 
 
 ### Minecraft 1.18.2
+
+Incompatible parcialmente. Soporte parcial finalizado el 9 de Octubre del 2022. Última actualización para ésta versión:
 
 **Versión:** Beta #7
 
@@ -68,12 +72,13 @@ Incompatible. Soporte finalizado el 20 de Julio del 2022. Última actualización
 
 ### Minecraft 1.19
 
-**Versión:** Beta #8
+**Versión:** Beta #9
 
 **Dependencias:** [SteveAPI v1.1](https://github.com/tacozyt/steveapi/releases/tag/v1.1)
 
-**Fecha y hora:** Domingo 9 de Octubre del 2022 a las 3:53 PM (Centro de México)
+**Fecha y hora:** Viernes 18 de Noviembre del 2022 a las 2:03 AM (Centro de México)
 
-[[DESCARGAR DATAPACK]](https://github.com/tacozyt/lezah/releases/download/beta8/LezaH_DP_Beta8_MC_1.19.zip)
-[[DESCARGAR RESOURCEPACK]](https://github.com/tacozyt/lezah-assets/releases/download/RP-v1.2/LezaH_DP_RP_v1.2_MC1.19.zip)
+[[DESCARGAR DATAPACK]](https://github.com/tacozyt/lezah/releases/download/beta9/LezaH_DP_Beta9_MC_1.19.zip)
+[[DESCARGAR RESOURCEPACK]](https://github.com/tacozyt/lezah-assets/releases/download/RP-v1.3/LezaH_DP_RP_v1.3_MC1.19.zip)
 
+*Resourcepack para la Beta #9 aún no disponible*
