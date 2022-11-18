@@ -80,5 +80,3 @@ Incompatible parcialmente. Soporte parcial finalizado el 9 de Octubre del 2022. 
 
 [[DESCARGAR DATAPACK]](https://github.com/tacozyt/lezah/releases/download/beta9/LezaH_DP_Beta9_MC_1.19.zip)
 [[DESCARGAR RESOURCEPACK]](https://github.com/tacozyt/lezah-assets/releases/download/RP-v1.3/LezaH_DP_RP_v1.3_MC1.19.zip)
-
-*Resourcepack para la Beta #9 aún no disponible*
