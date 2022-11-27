@@ -1,2 +1,2 @@
-execute as @a[predicate=lezah:hand_items/mainhand/thunder_rod] at @s if score @s lezah.thunderRod matches 1 run function lezah:game_events/thunder_rod/activate
-execute as @a[predicate=lezah:hand_items/mainhand/thunder_rod] if score @s lezah.thunderRod matches 2.. run scoreboard players reset @s lezah.thunderRod
+execute as @a[predicate=lezah:hand_items/mainhand/thunder_rod] at @s if score @s lezah.thunderRod matches 1 if score @s lezah.trcTrigger matches 0 run function lezah:game_events/thunder_rod/activate
+execute as @a[predicate=lezah:hand_items/mainhand/thunder_rod,scores={lezah.trcTrigger=0}] if score @s lezah.thunderRod matches 1.. run scoreboard players reset @s lezah.thunderRod

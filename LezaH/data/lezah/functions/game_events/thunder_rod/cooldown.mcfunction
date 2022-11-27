@@ -1,0 +1,3 @@
+execute as @a[scores={lezah.thunderRod=1..,lezah.trcTrigger=1}] run scoreboard players remove @s lezah.trcooldown 1
+execute as @a[scores={lezah.thunderRod=1..,lezah.trcTrigger=1}] if score @s lezah.trcooldown matches ..0 run scoreboard players set @s lezah.trcooldown 0
+execute as @a[scores={lezah.thunderRod=1..,lezah.trcTrigger=1}] if score @s lezah.trcooldown matches ..0 run scoreboard players set @s lezah.trcTrigger 0
