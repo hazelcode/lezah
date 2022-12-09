@@ -4,5 +4,3 @@ execute if entity @e[distance=0.1..45] run playsound entity.item.break master @a
 execute unless entity @e[distance=0.1..45] run title @s actionbar {"translate":"text.lezah.thunder_rod_radius","color":"red"}
 execute if entity @e[distance=0.1..45] run title @s actionbar {"translate":"text.lezah.thunder_rod_boom","color":"green"}
 scoreboard players reset @s lezah.thunderRod
-
-execute as @s run function lezah:game_events/thunder_rod/cooldown_trigger

@@ -1,2 +1,0 @@
-execute if score @s lezah.thunderRod matches 1.. run scoreboard players set @s lezah.trcTrigger 1
-execute if score @s[scores={lezah.thunderRod=..1}] lezah.trcTrigger matches 1 if score @s lezah.trcooldown matches 0 run scoreboard players set @s lezah.trcooldown 60
