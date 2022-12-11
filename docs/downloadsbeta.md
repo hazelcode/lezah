@@ -19,7 +19,7 @@ Esto quiere decir que **no son versiones estables ni el producto final**
 
 También debes descargar los siguientes datapacks para que Minecraft 2.0 funcione correctamente [ACTUALIZADO A LA ÚLTIMA VERSIÓN]
 
- - [SteveAPI v1.1](https://github.com/tacozyt/steveapi/releases/tag/v1.1)
+ - [SteveAPI v1.2](https://github.com/tacozyt/steveapi/releases/tag/v1.2)
 
 ## Versiones
 
@@ -72,11 +72,11 @@ Incompatible parcialmente. Soporte parcial finalizado el 9 de Octubre del 2022. 
 
 ### Minecraft 1.19
 
-**Versión:** Beta #9
+**Versión:** Beta #10
 
-**Dependencias:** [SteveAPI v1.1](https://github.com/tacozyt/steveapi/releases/tag/v1.1)
+**Dependencias:** [SteveAPI v1.2](https://github.com/tacozyt/steveapi/releases/tag/v1.2)
 
-**Fecha y hora:** Viernes 18 de Noviembre del 2022 a las 2:03 AM (Centro de México)
+**Fecha y hora:** Sábado 10 de Diciembre del 2022 a las 9:29 PM (Centro de México)
 
-[[DESCARGAR DATAPACK]](https://github.com/tacozyt/lezah/releases/download/beta9/LezaH_DP_Beta9_MC_1.19.zip)
-[[DESCARGAR RESOURCEPACK]](https://github.com/tacozyt/lezah-assets/releases/download/RP-v1.3/LezaH_DP_RP_v1.3_MC1.19.zip)
+[[DESCARGAR DATAPACK]](https://github.com/tacozyt/lezah/releases/download/beta10/LezaH_DP_Beta10_MC_1.19.zip)
+[[DESCARGAR RESOURCEPACK]](https://github.com/tacozyt/lezah-assets/releases/download/RP-v1.4/LezaH_DP_RP_v1.4_MC1.19.zip)
