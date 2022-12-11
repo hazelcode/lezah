@@ -3,8 +3,12 @@
     "icon": {
       "item": "minecraft:copper_ingot"
     },
-    "title": "A Thunder in a Stick",
-    "description": "Craft a Thunder Rod!",
+    "title": {
+      "translate": "advancements.lezah.thunder_rod.title"
+    },
+    "description": {
+      "translate": "advancements.lezah.thunder_rod.desc"
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true
