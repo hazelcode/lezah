@@ -44,7 +44,7 @@ Incompatible. Soporte finalizado el 20 de Julio del 2022. Última actualización
 
 ### Minecraft 1.18 & 1.18.1
 
-Incompatible parcialmente. Soporte parcial finalizado el 9 de Octubre del 2022. Última actualización para ésta versión:
+Incompatible. Soporte parcial finalizado el 9 de Octubre del 2022. Última actualización para ésta versión:
 
 **Versión:** Beta #7
 
@@ -58,7 +58,7 @@ Incompatible parcialmente. Soporte parcial finalizado el 9 de Octubre del 2022. 
 
 ### Minecraft 1.18.2
 
-Incompatible parcialmente. Soporte parcial finalizado el 9 de Octubre del 2022. Última actualización para ésta versión:
+Incompatible. Soporte parcial finalizado el 9 de Octubre del 2022. Última actualización para ésta versión:
 
 **Versión:** Beta #7
 
