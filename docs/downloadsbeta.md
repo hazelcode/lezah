@@ -19,7 +19,7 @@ Esto quiere decir que **no son versiones estables ni el producto final**
 
 También debes descargar los siguientes datapacks para que Minecraft 2.0 funcione correctamente [ACTUALIZADO A LA ÚLTIMA VERSIÓN]
 
- - [SteveAPI v1.2](https://github.com/tacozyt/steveapi/releases/tag/v1.2)
+ - [SteveAPI v1.2.0.1](https://github.com/tacozyt/steveapi/releases/tag/v1.2.0.1)
 
 ## Versiones
 
@@ -74,7 +74,7 @@ Incompatible. Soporte parcial finalizado el 9 de Octubre del 2022. Última actua
 
 **Versión:** Beta #10
 
-**Dependencias:** [SteveAPI v1.2](https://github.com/tacozyt/steveapi/releases/tag/v1.2)
+**Dependencias:** [SteveAPI v1.2.0.1](https://github.com/tacozyt/steveapi/releases/tag/v1.2.0.1)
 
 **Fecha y hora:** Sábado 10 de Diciembre del 2022 a las 9:29 PM (Centro de México)
 
