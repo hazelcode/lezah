@@ -5,3 +5,4 @@ execute unless entity @e[distance=0.1..45] run title @s actionbar {"translate":"
 execute if entity @e[distance=0.1..45] run title @s actionbar {"translate":"text.lezah.thunder_rod_boom","color":"green"}
 scoreboard players reset @s lezah.thunderRod
 scoreboard players set @s lezah.TRTriggAdv 1
+advancement grant @s[scores={lezah.TRSuperAdv=1,lezah.TRTriggAdv=1}] only lezah:thunder_god

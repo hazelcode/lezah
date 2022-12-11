@@ -1,6 +1,7 @@
 {
 	"replace": false,
     "values": [
+    "lezah:loading/reloading_text",
 		"parchment:schedule_detection"
     ]
 }
