@@ -17,7 +17,7 @@ Esto quiere decir que **no son versiones estables ni el producto final**
 
 ### Dependencias
 
-También debes descargar los siguientes datapacks para que Minecraft 2.0 funcione correctamente [ACTUALIZADO A LA ÚLTIMA VERSIÓN]
+También debes descargar los siguientes datapacks para que LezaH Datapack funcione correctamente [ACTUALIZADO A LA ÚLTIMA VERSIÓN]
 
  - [SteveAPI v1.2.0.1](https://github.com/tacozyt/steveapi/releases/tag/v1.2.0.1)
 
@@ -44,7 +44,7 @@ Incompatible. Soporte finalizado el 20 de Julio del 2022. Última actualización
 
 ### Minecraft 1.18 & 1.18.1
 
-Incompatible. Soporte parcial finalizado el 9 de Octubre del 2022. Última actualización para ésta versión:
+Incompatible. Soporte finalizado el 9 de Octubre del 2022. Última actualización para ésta versión:
 
 **Versión:** Beta #7
 
@@ -58,7 +58,7 @@ Incompatible. Soporte parcial finalizado el 9 de Octubre del 2022. Última actua
 
 ### Minecraft 1.18.2
 
-Incompatible. Soporte parcial finalizado el 9 de Octubre del 2022. Última actualización para ésta versión:
+Incompatible. Soporte finalizado el 9 de Octubre del 2022. Última actualización para ésta versión:
 
 **Versión:** Beta #7
 
@@ -72,11 +72,11 @@ Incompatible. Soporte parcial finalizado el 9 de Octubre del 2022. Última actua
 
 ### Minecraft 1.19
 
-**Versión:** Beta #10
+**Versión:** Beta #11
 
 **Dependencias:** [SteveAPI v1.2.0.1](https://github.com/tacozyt/steveapi/releases/tag/v1.2.0.1)
 
-**Fecha y hora:** Sábado 10 de Diciembre del 2022 a las 9:29 PM (Centro de México)
+**Fecha y hora:** Domingo 11 de Diciembre del 2022 a las 6:20 PM (Centro de México)
 
-[[DESCARGAR DATAPACK]](https://github.com/tacozyt/lezah/releases/download/beta10/LezaH_DP_Beta10_MC_1.19.zip)
-[[DESCARGAR RESOURCEPACK]](https://github.com/tacozyt/lezah-assets/releases/download/RP-v1.4/LezaH_DP_RP_v1.4_MC1.19.zip)
+[[DESCARGAR DATAPACK]](https://github.com/tacozyt/lezah/releases/download/beta11/LezaH_DP_Beta11_MC_1.19.zip)
+[[DESCARGAR RESOURCEPACK]](https://github.com/tacozyt/lezah-assets/releases/download/RP-v1.4.1/LezaH_DP_RP_v1.4.1_MC1.19.zip)
