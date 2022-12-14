@@ -1,4 +1,4 @@
-##TRIGGERS##
+﻿##TRIGGERS##
 function #lezah:add_triggers
 function #lezah:enable_triggers
 
@@ -16,7 +16,7 @@ scoreboard objectives add lezah.Data dummy
 scoreboard objectives add lezah.thunderRod used:carrot_on_a_stick
 scoreboard objectives add lezah.TRSuperAdv dummy
 scoreboard objectives add lezah.TRTriggAdv dummy
-scoreboard objectives add lezah.TmpData dummy
+scoreboard objectives add lezah.AdvData dummy
 
 ##BOSSBARS##
 #NO HAY NINGUNA AÚN#

@@ -24,17 +24,14 @@
             "condition": "minecraft:entity_scores",
             "entity": "this",
             "scores": {
-              "lezah.TmpData": 1001
+              "lezah.AdvData": 1001
             }
           }
         ]
       }
     }
   },
-  "requirements": [
-    [
-      "temp_data",
-      "warrior_armor"
-    ]
-  ]
+  "rewards": {
+    "function": "lezah:game_events/adv_system/tag/warrior_armor"
+  }
 }

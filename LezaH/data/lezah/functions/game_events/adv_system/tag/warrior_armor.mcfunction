@@ -1,0 +1,1 @@
+tag @s add lezah.adv.warrior_armor
