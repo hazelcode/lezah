@@ -24,7 +24,7 @@
             "condition": "minecraft:entity_scores",
             "entity": "this",
             "scores": {
-              "lezah.TmpData": 1001
+              "lezah.AdvData": 1001
             }
           }
         ]
