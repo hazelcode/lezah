@@ -12,7 +12,11 @@
   "criteria": {
     "requirement": {
       "trigger": "minecraft:effects_changed",
-      "conditions": {}
+      "conditions": {
+        "effects": {
+          "minecraft:regeneration": {}
+        }
+      }
     }
   }
 }
