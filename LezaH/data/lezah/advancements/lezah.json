@@ -9,7 +9,7 @@
       "description": {
         "translate": "advancements.lezah.datapack.desc"
       },
-      "frame": "goal",
+      "frame": "challenge",
       "show_toast": false,
       "announce_to_chat": false
     },
