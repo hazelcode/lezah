@@ -17,40 +17,21 @@
   "parent": "lezah:bienvenida",
   "criteria": {
     "requirement": {
-      "trigger": "minecraft:inventory_changed",
+      "trigger": "minecraft:tick",
       "conditions": {
-        "items": [
+        "player": [
           {
-            "items": [
-              "minecraft:iron_helmet"
-            ],
-            "nbt": "{warrior:1}"
-          },
-          {
-            "items": [
-              "minecraft:iron_chestplate"
-            ],
-            "nbt": "{warrior:1}"
-          },
-          {
-            "items": [
-              "minecraft:iron_chestplate"
-            ],
-            "nbt": "{warrior:1}"
-          },
-          {
-            "items": [
-              "minecraft:iron_chestplate"
-            ],
-            "nbt": "{warrior:1}"
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "lezah.AdvData": 1001
+            }
           }
         ]
       }
     }
   },
-  "requirements": [
-    [
-      "iron_armor"
-    ]
-  ]
+  "rewards": {
+    "function": "lezah:game_events/adv_system/tag/warrior_armor"
+  }
 }
