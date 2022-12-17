@@ -1,0 +1,37 @@
+{
+    "display": {
+      "icon": {
+        "item": "minecraft:diamond_sword",
+        "nbt": "{ID:10}"
+      },
+      "title": "¿¿¿LEGÍTIMO???",
+      "description": "¿¿¿ENSERIO ES POSIBLE UNA MALDITA ESPADA BUGEADA???",
+      "frame": "challenge",
+      "show_toast": true,
+      "announce_to_chat": true,
+      "hidden": false
+    },
+    "parent": "lezah:bienvenida",
+    "criteria": {
+      "requirements": {
+        "trigger": "minecraft:tick",
+        "conditions": {
+          "player": {
+            "type": "minecraft:player",
+            "equipment": {
+              "mainhand": {
+                "items": [
+                  "minecraft:diamond_sword"
+                ],
+                "nbt": "{ID:10}"
+              }
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "experience": 50
+    }
+  }
+  
