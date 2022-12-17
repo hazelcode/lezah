@@ -1,43 +1,45 @@
 {
-    "display": {
-      "icon": {
-        "item": "minecraft:iron_boots",
-        "nbt": "{ID:17}"
-      },
-      "title": "¡Hora de esquiar!",
-      "description": "¡Anda por el océano congelado con los patines de hielo equipados!",
-      "show_toast": true,
-      "announce_to_chat": true,
-      "hidden": false
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_boots",
+      "nbt": "{ID:17}"
     },
-    "parent": "lezah:ice_skates",
-    "criteria": {
-      "requirements": {
-        "trigger": "minecraft:tick",
-        "conditions": {
-          "player": [
-            {
-              "condition": "minecraft:entity_properties",
-              "entity": "this",
-              "predicate": {
-                "type": "minecraft:player",
-                "location": {
-                  "biome": "minecraft:frozen_ocean"
-                },
-                "equipment": {
-                  "feet": {
-                    "items": [
-                      "minecraft:iron_boots"
-                    ],
-                    "nbt": "{ID:17}"
-                  }
+    "title": "¡Hora de patinar!",
+    "description": "¡Anda por el océano congelado con los patines de hielo equipados!",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "lezah:ice_skates",
+  "criteria": {
+    "requirements": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:player",
+              "location": {
+                "biome": "minecraft:frozen_ocean"
+              },
+              "equipment": {
+                "feet": {
+                  "items": [
+                    "minecraft:iron_boots"
+                  ],
+                  "nbt": "{ID:17}"
                 }
               }
             }
-          ]
-        }
+          }
+        ]
       }
-    },
-    "rewards": {}
+    }
+  },
+  "rewards": {
+    "experience": 35
   }
-  
+}
