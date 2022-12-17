@@ -1,8 +1,7 @@
 {
-  "parent":"lezah:bienvenida",
   "display": {
     "icon": {
-      "item": "minecraft:zombie_head"
+      "item": "minecraft:milk_bucket"
     },
     "title": {
       "translate": "advancements.lezah.milk.title",
@@ -17,6 +16,7 @@
     "announce_to_chat": true,
     "hidden": false
   },
+  "parent": "lezah:bienvenida",
   "criteria": {
     "requirement": {
       "trigger": "minecraft:consume_item",
