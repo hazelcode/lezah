@@ -1,40 +1,43 @@
 {
-    "display": {
-      "icon": {
-        "item": "minecraft:iron_boots",
-        "nbt": "{ID:17}"
-      },
-      "title": "Patines de hielo... ¡Listos!",
-      "description": "Equípate unos buenos patines para andar en el hielo",
-      "show_toast": true,
-      "announce_to_chat": true,
-      "hidden": false
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_boots",
+      "nbt": "{ID:17}"
     },
-    "parent": "lezah:bienvenida",
-    "criteria": {
-      "requirements": {
-        "trigger": "minecraft:tick",
-        "conditions": {
-          "player": [
-            {
-              "condition": "minecraft:entity_properties",
-              "entity": "this",
-              "predicate": {
-                "type": "minecraft:player",
-                "equipment": {
-                  "feet": {
-                    "items": [
-                      "minecraft:iron_boots"
-                    ],
-                    "nbt": "{ID:17}"
-                  }
+    "title": {
+      "translate": "advancements.lezah.ice_skates.title"
+    },
+    "description": {
+      "translate": "advancements.lezah.ice_skates.desc"
+    },
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "lezah:bienvenida",
+  "criteria": {
+    "requirements": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:player",
+              "equipment": {
+                "feet": {
+                  "items": [
+                    "minecraft:iron_boots"
+                  ],
+                  "nbt": "{ID:17}"
                 }
               }
             }
-          ]
-        }
+          }
+        ]
       }
-    },
-    "rewards": {}
-  }
-  
+    }
+  },
+  "rewards": {}
+}

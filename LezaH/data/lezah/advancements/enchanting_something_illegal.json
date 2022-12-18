@@ -1,45 +1,48 @@
 {
-    "display": {
-      "icon": {
-        "item": "minecraft:diamond_sword",
-        "nbt": "{ID:10}"
-      },
-      "title": "Encantando algo ilegal",
-      "description": "No debería encantar una espada bugeada con Reparación e Irrompibilidad III ¿O sí?",
-      "frame": "goal",
-      "show_toast": true,
-      "announce_to_chat": true,
-      "hidden": false
+  "display": {
+    "icon": {
+      "item": "minecraft:diamond_sword",
+      "nbt": "{ID:10}"
     },
-    "parent": "lezah:legit",
-    "criteria": {
-      "requirements": {
-        "trigger": "minecraft:tick",
-        "conditions": {
-          "player": {
-            "type": "minecraft:player",
-            "equipment": {
-              "mainhand": {
-                "tag": "lezah:upgradeable_swords",
-                "nbt": "{ID:10}",
-                "enchantments": [
-                  {
-                    "enchantment": "minecraft:mending",
-                    "levels": 1
-                  },
-                  {
-                    "enchantment": "minecraft:unbreaking",
-                    "levels": 3
-                  }
-                ]
-              }
+    "title": {
+      "translate": "advancements.lezah.enchanting_something_illegal.title"
+    },
+    "description": {
+      "translate": "advancements.lezah.enchanting_something_illegal.desc"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "lezah:legit",
+  "criteria": {
+    "requirements": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": {
+          "type": "minecraft:player",
+          "equipment": {
+            "mainhand": {
+              "tag": "lezah:upgradeable_swords",
+              "nbt": "{ID:10}",
+              "enchantments": [
+                {
+                  "enchantment": "minecraft:mending",
+                  "levels": 1
+                },
+                {
+                  "enchantment": "minecraft:unbreaking",
+                  "levels": 3
+                }
+              ]
             }
           }
         }
       }
-    },
-    "rewards": {
-      "experience": 35
     }
+  },
+  "rewards": {
+    "experience": 35
   }
-  
+}

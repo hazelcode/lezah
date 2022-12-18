@@ -1,49 +1,52 @@
 {
-    "display": {
-      "icon": {
-        "item": "minecraft:iron_boots",
-        "nbt": "{ID:17,Enchantments:[{\"id\":\"frost_walker\",\"lvl\":2}]}"
-      },
-      "title": "Patines tuneados",
-      "description": "¡Encanta tus patines con Paso helado II y póntelos!",
-      "frame": "goal",
-      "show_toast": true,
-      "announce_to_chat": true,
-      "hidden": false
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_boots",
+      "nbt": "{ID:17,Enchantments:[{\"id\":\"frost_walker\",\"lvl\":2}]}"
     },
-    "parent": "lezah:ice_skates",
-    "criteria": {
-      "requirements": {
-        "trigger": "minecraft:tick",
-        "conditions": {
-          "player": [
-            {
-              "condition": "minecraft:entity_properties",
-              "entity": "this",
-              "predicate": {
-                "type": "minecraft:player",
-                "equipment": {
-                  "feet": {
-                    "items": [
-                      "minecraft:iron_boots"
-                    ],
-                    "nbt": "{ID:17}",
-                    "enchantments": [
-                      {
-                        "enchantment": "minecraft:frost_walker",
-                        "levels": 2
-                      }
-                    ]
-                  }
+    "title": {
+      "translate": "advancements.lezah.tuned_skates.title"
+    },
+    "description": {
+      "translate": "advancements.lezah.tuned_skates.desc"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "lezah:ice_skates",
+  "criteria": {
+    "requirements": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:player",
+              "equipment": {
+                "feet": {
+                  "items": [
+                    "minecraft:iron_boots"
+                  ],
+                  "nbt": "{ID:17}",
+                  "enchantments": [
+                    {
+                      "enchantment": "minecraft:frost_walker",
+                      "levels": 2
+                    }
+                  ]
                 }
               }
             }
-          ]
-        }
+          }
+        ]
       }
-    },
-    "rewards": {
-      "experience": 45
     }
+  },
+  "rewards": {
+    "experience": 45
   }
-  
+}

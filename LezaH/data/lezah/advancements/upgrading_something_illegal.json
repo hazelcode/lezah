@@ -2,23 +2,23 @@
   "display": {
     "icon": {
       "item": "minecraft:netherite_sword",
-      "nbt": "{ID:8}"
+      "nbt": "{ID:10}"
     },
     "title": {
-      "translate": "advancements.lezah.dont_trust_me.title"
+      "translate": "advancements.lezah.upgrading_something_illegal.title"
     },
     "description": {
-      "translate": "advancements.lezah.dont_trust_me.desc"
+      "translate": "advancements.lezah.upgrading_something_illegal.title"
     },
-    "frame": "task",
+    "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true,
     "hidden": false
   },
-  "parent": "lezah:they_call_him_the_killer",
+  "parent": "lezah:legit",
   "criteria": {
     "requirements": {
-      "trigger": "minecraft:player_hurt_entity",
+      "trigger": "minecraft:tick",
       "conditions": {
         "player": {
           "type": "minecraft:player",
@@ -27,18 +27,14 @@
               "items": [
                 "minecraft:netherite_sword"
               ],
-              "nbt": "{ID:8}"
+              "nbt": "{ID:10}"
             }
-          }
-        },
-        "entity": {
-          "type": "minecraft:zombie",
-          "flags": {
-            "is_baby": false
           }
         }
       }
     }
   },
-  "rewards": {}
+  "rewards": {
+    "experience": 50
+  }
 }

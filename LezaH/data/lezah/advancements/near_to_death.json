@@ -3,8 +3,12 @@
     "icon": {
       "item": "minecraft:iron_sword"
     },
-    "title": "¡A punto de morir!",
-    "description": "¡Medio corazón!",
+    "title": {
+      "translate": "advancements.lezah.near_to_death.title"
+    },
+    "description": {
+      "translate": "advancements.lezah.near_to_death.desc"
+    },
     "show_toast": true,
     "announce_to_chat": true
   },

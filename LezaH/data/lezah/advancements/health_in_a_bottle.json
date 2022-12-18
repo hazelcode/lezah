@@ -3,8 +3,12 @@
     "icon": {
       "item": "minecraft:potion"
     },
-    "title": "Salud en una botella",
-    "description": "Agarra el efecto de regeneración",
+    "title": {
+      "translate": "advancements.lezah.health_in_a_bottle.title"
+    },
+    "description": {
+      "translate": "advancements.lezah.health_in_a_bottle.desc"
+    },
     "show_toast": true,
     "announce_to_chat": true
   },

@@ -4,8 +4,12 @@
       "item": "minecraft:iron_boots",
       "nbt": "{ID:17}"
     },
-    "title": "¡Hora de patinar!",
-    "description": "¡Anda por el océano congelado con los patines de hielo equipados!",
+    "title": {
+      "translate": "advancements.lezah.time_to_skate.title"
+    },
+    "description": {
+      "translate": "advancements.lezah.time_to_skate.desc"
+    },
     "frame": "goal",
     "show_toast": true,
     "announce_to_chat": true,
