@@ -20,7 +20,7 @@
             "type": "minecraft:player",
             "equipment": {
               "mainhand": {
-                "tag": "steveapi:upgradeable_swords",
+                "tag": "lezah:upgradeable_swords",
                 "nbt": "{ID:10}",
                 "enchantments": [
                   {

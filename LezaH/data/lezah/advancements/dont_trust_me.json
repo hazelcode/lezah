@@ -4,7 +4,7 @@
         "item": "minecraft:netherite_sword",
         "nbt": "{ID:8}"
       },
-      "title": "¡Que conmigo no confíes conmigo, pesado!",
+      "title": "¡Que no confíes conmigo, pesado!",
       "description": "Ataca a un zombi con tu nueva katana de netherita",
       "frame": "task",
       "show_toast": true,
