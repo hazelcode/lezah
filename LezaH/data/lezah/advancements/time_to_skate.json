@@ -1,0 +1,49 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:iron_boots",
+      "nbt": "{ID:17}"
+    },
+    "title": {
+      "translate": "advancements.lezah.time_to_skate.title"
+    },
+    "description": {
+      "translate": "advancements.lezah.time_to_skate.desc"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "lezah:ice_skates",
+  "criteria": {
+    "requirements": {
+      "trigger": "minecraft:tick",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "type": "minecraft:player",
+              "location": {
+                "biome": "minecraft:frozen_ocean"
+              },
+              "equipment": {
+                "feet": {
+                  "items": [
+                    "minecraft:iron_boots"
+                  ],
+                  "nbt": "{ID:17}"
+                }
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 35
+  }
+}

@@ -1,7 +1,8 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:beacon"
+      "item": "minecraft:carrot_on_a_stick",
+      "nbt": "{ID:9}"
     },
     "title": {
       "translate": "advancements.lezah.thunder_god.title"

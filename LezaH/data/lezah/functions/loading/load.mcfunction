@@ -16,6 +16,7 @@ scoreboard objectives add lezah.thunderRod used:carrot_on_a_stick
 scoreboard objectives add lezah.TRSuperAdv dummy
 scoreboard objectives add lezah.TRTriggAdv dummy
 scoreboard objectives add lezah.AdvData dummy
+scoreboard objectives add lezah.ZombieKill killed:zombie
 
 # BOSSBARS
 

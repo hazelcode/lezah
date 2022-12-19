@@ -1,18 +1,16 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:zombie_head"
+      "item": "minecraft:iron_sword"
     },
     "title": {
-      "translate": "advancements.lezah.killer.title"
+      "translate": "advancements.lezah.near_to_death.title"
     },
     "description": {
-      "translate": "advancements.lezah.killer.desc"
+      "translate": "advancements.lezah.near_to_death.desc"
     },
-    "frame": "task",
     "show_toast": true,
-    "announce_to_chat": true,
-    "hidden": false
+    "announce_to_chat": true
   },
   "parent": "lezah:bienvenida",
   "criteria": {
@@ -24,17 +22,11 @@
             "condition": "minecraft:entity_scores",
             "entity": "this",
             "scores": {
-              "lezah.ZombieKill": {
-                "min": 10,
-                "max": 25
-              }
+              "steve.health": 1
             }
           }
         ]
       }
     }
-  },
-  "rewards": {
-    "experience": 25
   }
 }
