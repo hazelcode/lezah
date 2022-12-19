@@ -76,7 +76,7 @@ Incompatible. Soporte finalizado el 9 de Octubre del 2022. Última actualizació
 
 **Dependencias:** [SteveAPI v1.2.1](https://github.com/tacozyt/steveapi/releases/tag/v1.2.1)
 
-**Fecha y hora:** Domingo 11 de Diciembre del 2022 a las 6:20 PM (Centro de México)
+**Fecha y hora:** Lunes 19 de Diciembre del 2022 a las 3:40 PM (Centro de México)
 
 [[DESCARGAR DATAPACK]](https://github.com/tacozyt/lezah/releases/download/beta12/LezaH_DP_Beta12_MC_1.19.zip)
 [[DESCARGAR RESOURCEPACK]](https://github.com/tacozyt/lezah-assets/releases/download/RP-v1.5/LezaH_DP_RP_v1.5_MC1.19.zip)
