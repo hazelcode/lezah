@@ -1,0 +1,3 @@
+summon item ~ ~0.5 ~ {Item:{id:"minecraft:item_frame",Count:1b,tag:{display:{Name:'{"text":"Regenerator","italic": false}'},CustomModelData:7500001,EntityTag:{Tags:["lezah.regenerator"],Item:{id:"minecraft:item_frame",Count:1b,tag:{CustomModelData:7500001}},Invulnerable:1b,Invisible:1b,Fixed:1b}}}}
+kill @e[type=item,distance=0..2,sort=nearest,limit=1,nbt={Item:{id:"minecraft:redstone_block"}}]
+kill @s
