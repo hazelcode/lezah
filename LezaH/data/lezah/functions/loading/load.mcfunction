@@ -6,11 +6,9 @@ function #lezah:enable_triggers
 function lezah:config
 
 # SCOREBOARDS
-scoreboard objectives add crafteos dummy
-scoreboard objectives add vida health
-scoreboard objectives add TEST dummy
-scoreboard objectives add raidsVencidas custom:raid_win
-scoreboard objectives add maderaTalada broken:oak_log
+scoreboard objectives add lezah.Craft dummy
+scoreboard objectives add lezah.TEST dummy
+scoreboard objectives add lezah.RaidWin custom:raid_win
 scoreboard objectives add lezah.Data dummy
 scoreboard objectives add lezah.thunderRod used:carrot_on_a_stick
 scoreboard objectives add lezah.TRSuperAdv dummy
