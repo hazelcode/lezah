@@ -22,4 +22,4 @@ execute unless score #Version lezah.Data matches 7 run function lezah:loading/up
 
 ##TERMINAR##
 tellraw @a [{"text": "[LezaH Datapack] ","color": "green"},{"text": "Recarga completa ","color": "yellow"}]
-execute if score #DisableDatapackLink settings matches -1 run tellraw @a {"text": "[PÁGINA DEL DATAPACK]","color": "gold","clickEvent": {"action":"open_url","value":"https://tacozyt.github.io/mc2.0"}}
+execute if score #DisableDatapackLink settings matches -1 run tellraw @a {"text": "[PÁGINA DEL DATAPACK]","color": "gold","clickEvent": {"action":"open_url","value":"https://tacozyt.github.io/lezah"}}
