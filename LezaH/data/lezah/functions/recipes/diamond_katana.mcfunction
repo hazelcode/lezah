@@ -1,5 +1,5 @@
-advancement revoke @s only newmc:onlyrecipes/diamond_katana
-recipe take @s newmc:diamond_katana
+advancement revoke @s only lezah:onlyrecipes/diamond_katana
+recipe take @s lezah:diamond_katana
 
 execute store result score @s lezah.Craft run clear @s command_block
 
