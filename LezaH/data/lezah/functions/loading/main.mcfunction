@@ -11,3 +11,4 @@ function lezah:steve.settings/main
 function lezah:entity/pet_names
 function lezah:game_events/main
 function lezah:settings/main
+function lezah:blocks/main
