@@ -15,6 +15,7 @@ scoreboard objectives add lezah.TRSuperAdv dummy
 scoreboard objectives add lezah.TRTriggAdv dummy
 scoreboard objectives add lezah.AdvData dummy
 scoreboard objectives add lezah.ZombieKill killed:zombie
+scoreboard objectives add lezah.SuperJump custom:jump
 
 # BOSSBARS
 
