@@ -31,7 +31,7 @@
       }
     },
     "rewards": {
-      "function": "lezah:game_events/blocks/regenerator/reset_scores"
+      "function": "lezah:game_events/blocks/regenerator/reset_scores_2"
     }
   }
   
