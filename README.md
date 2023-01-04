@@ -1,9 +1,46 @@
 # LezaH Datapack
 Un gran proyecto de LezaHMC75
 
-Dependencias:
+## Dependencias
  - [SteveAPI](https://github.com/tacozyt/steveapi/releases/latest)
 
+## Descargas y páginas
+[[REPOSITORIO DE GITHUB]](https://github.com/tacozyt/lezah)
+[[ACTUALIZACIONES]](https://github.com/tacozyt/lezah/releases/latest)
+[[PÁGINA DEL DATAPACK]](https://tacozyt.github.io/lezah)
 [[DESCARGAS]](https://tacozyt.github.io/lezah/downloads)
+[[DESCARGAS BETA]](https://tacozyt.github.io/lezah/downloadsbeta)
 
-[[DESCARGAS]](https://tacozyt.github.io/lezah/downloadsbeta)
+## Translation Notice
+The content of the datapack is 100% translated into English, but only limited to that.
+
+The repository, the web page, the PMC entry, and most of the README document (except for this notice) are in Spanish.
+
+If you don't know Spanish, I recommend enabling the automatic translation option in your browser. I have already tried the automatic translation and the translations are not bad at all.
+
+I wanted to clarify this for those who do not understand Spanish.
+
+About in-game translations:
+There is no translation team involved, the translations were done and proofread by me, the author of the datapack
+
+Thank you for your time.
+- LezaH, author of the datapack
+
+## Acerca de la distribución del datapack
+
+Este es LezaH Datapack, y es un proyecto creado por mí, LezaH.
+
+Queda TOTALMENTE PROHIBIDO hacer plagioo copia de éste datapack.
+También, queda TOTALMENTE PROHIBIDO la redistribución del datapack que no sea hecha por LezaH, osea, yo.
+
+Si vas a redistribuir el datapack, estás limitado sólo a compartir el enlace de la página, el enlace del repositorio o el enlace del datapack en planetminecraft.com
+
+## Q&A
+¿Dudas sobre algo?
+
+Muy probablemente dentro de un tiempo habilitaré la sección de Discusiones en el repositorio de GitHub, con una sección de English (Inglés) y otra sección de Español (Spanish)
+
+## Integrantes del proyecto
+ - LezaH (Líder del proyecto, Programador, Diseñador, Creador de texturas, Traductor del Inglés y el Español, Beta tester)
+
+*¡Nos vemos!*
