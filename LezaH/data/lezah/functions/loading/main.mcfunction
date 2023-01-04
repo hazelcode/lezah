@@ -1,5 +1,4 @@
 function lezah:loading/api/main
-function #lezah:tick_triggers
 function lezah:old_content_folder/ticks
 function lezah:old_content_folder/logros
 function lezah:old_content_folder/itemstuff/main

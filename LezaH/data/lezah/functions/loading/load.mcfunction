@@ -1,6 +1,4 @@
 # TRIGGERS
-function #lezah:add_triggers
-function #lezah:enable_triggers
 
 # FUNCIONES
 function lezah:config
