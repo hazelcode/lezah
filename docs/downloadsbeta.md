@@ -72,7 +72,7 @@ Incompatible. Soporte finalizado el 9 de Octubre del 2022. Última actualizació
 
 ### Minecraft 1.19
 
-**Versión:** Beta #13
+**Versión:** v1.0 Prerelease 1
 
 **Dependencias:**
 
@@ -80,7 +80,7 @@ Mínimo: [SteveAPI v1.2.0.1](https://github.com/tacozyt/steveapi/releases/tag/v1
 
 Recomendado: [SteveAPI v1.2.1](https://github.com/tacozyt/steveapi/releases/tag/v1.2.1)
 
-**Fecha y hora:** Lunes 26 de Diciembre del 2022 a las 6:32 PM (Centro de México)
+**Fecha y hora:** Martes 3 de Enero del 2023 a las 10:09 PM (Centro de México)
 
-[[DESCARGAR DATAPACK]](https://github.com/tacozyt/lezah/releases/download/beta13/LezaH_DP_Beta13_MC_1.19.zip)
+[[DESCARGAR DATAPACK]](https://github.com/tacozyt/lezah/releases/download/v1.0-pre1/LezaH_DP_v1.0-pre1_MC_1.19.zip)
 [[DESCARGAR RESOURCEPACK]](https://github.com/tacozyt/lezah-assets/releases/download/RP-v1.6/LezaH_DP_RP_v1.6_MC1.19.zip)
