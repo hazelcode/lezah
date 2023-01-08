@@ -15,6 +15,8 @@ Un gran proyecto de LezaHMC75
 ## Licencia
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licencia Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">LezaH Datapack</span> por <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/tacozyt/lezah" property="cc:attributionName" rel="cc:attributionURL">LezaHMC75</a> se distribuye bajo una <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licencia Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional</a>.<br />Basada en una obra en <a xmlns:dct="http://purl.org/dc/terms/" href="https://modrinth.com/datapack/lezah" rel="dct:source">https://modrinth.com/datapack/lezah</a>.
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">LezaH Datapack</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/tacozyt/lezah" property="cc:attributionName" rel="cc:attributionURL">LezaHMC75</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://modrinth.com/datapack/lezah" rel="dct:source">https://modrinth.com/datapack/lezah</a>.
+
 ## Translation Notice
 The content of the datapack is 100% translated into English, but only limited to that.
 
