@@ -10,6 +10,7 @@ Un gran proyecto de LezaHMC75
 [[PÁGINA DEL DATAPACK]](https://tacozyt.github.io/lezah)
 [[DESCARGAS]](https://tacozyt.github.io/lezah/downloads)
 [[DESCARGAS BETA]](https://tacozyt.github.io/lezah/downloadsbeta)
+[[MODRINTH ENTRY]](https://modrinth.com/datapack/lezah)
 
 ## Translation Notice
 The content of the datapack is 100% translated into English, but only limited to that.
@@ -30,10 +31,10 @@ Thank you for your time.
 
 Este es LezaH Datapack, y es un proyecto creado por mí, LezaH.
 
-Queda TOTALMENTE PROHIBIDO hacer plagioo copia de éste datapack.
+Queda TOTALMENTE PROHIBIDO hacer plagio o copia de éste datapack.
 También, queda TOTALMENTE PROHIBIDO la redistribución del datapack que no sea hecha por LezaH, osea, yo.
 
-Si vas a redistribuir el datapack, estás limitado sólo a compartir el enlace de la página, el enlace del repositorio o el enlace del datapack en planetminecraft.com
+Si vas a redistribuir el datapack, estás limitado sólo a compartir el enlace de la página, el enlace del repositorio o los enlaces oficiales del datapack
 
 ## Q&A
 ¿Dudas sobre algo?
@@ -42,5 +43,8 @@ Muy probablemente dentro de un tiempo habilitaré la sección de Discusiones en 
 
 ## Integrantes del proyecto
  - LezaH (Líder del proyecto, Programador, Diseñador, Creador de texturas, Traductor del Inglés y el Español, Beta tester)
+
+¿Quieres contribuir al proyecto?
+¡Solicita ser parte del equipo o contribuye en el repositorio!
 
 *¡Nos vemos!*
