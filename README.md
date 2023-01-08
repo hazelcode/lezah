@@ -37,7 +37,6 @@ Thank you for your time.
 Este es LezaH Datapack, y es un proyecto creado por mí, LezaH.
 
 Queda TOTALMENTE PROHIBIDO hacer plagio o copia de éste datapack.
-También, queda TOTALMENTE PROHIBIDO la redistribución del datapack que no sea hecha por LezaH, osea, yo.
 
 Si vas a redistribuir el datapack, estás limitado sólo a compartir el enlace de la página, el enlace del repositorio o los enlaces oficiales del datapack
 
