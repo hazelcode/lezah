@@ -6,7 +6,7 @@ title @a[gamemode=spectator] actionbar [{"translate":"text.lezah.spectator_mode1
 function lezah:old_content_folder/time
 function lezah:mechanics/main
 function lezah:nbt/main
-function lezah:steve.settings/main
+function lezah:settings/main
 function lezah:entity/pet_names
 function lezah:game_events/main
 function lezah:settings/main

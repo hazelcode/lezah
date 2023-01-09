@@ -24,7 +24,7 @@
             "condition": "minecraft:entity_scores",
             "entity": "this",
             "scores": {
-              "lezah.AdvData": 1001
+              "lezah.WarriorAdv": 1
             }
           }
         ]
@@ -32,6 +32,6 @@
     }
   },
   "rewards": {
-    "function": "lezah:game_events/adv_system/tag/warrior_armor"
+    "function": "lezah:game_events/warrior_adv/tag/warrior_armor"
   }
 }
