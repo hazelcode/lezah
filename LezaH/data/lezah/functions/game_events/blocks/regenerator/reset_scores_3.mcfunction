@@ -1,1 +1,0 @@
-scoreboard players reset @s[advancements={lezah:zombies_out=true}] lezah.RegenAdv3

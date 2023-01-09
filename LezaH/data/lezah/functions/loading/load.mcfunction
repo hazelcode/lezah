@@ -17,7 +17,6 @@ scoreboard objectives add lezah.SuperJump custom:jump
 scoreboard objectives add lezah.level dummy
 scoreboard objectives add lezah.RegenAdv1 dummy
 scoreboard objectives add lezah.RegenAdv2 dummy
-scoreboard objectives add lezah.RegenAdv3 dummy
 
 # BOSSBARS
 
