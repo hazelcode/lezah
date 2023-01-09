@@ -1,0 +1,17 @@
+{
+    "values": [
+        "boat",
+        "chest_boat",
+        "minecart",
+        "tnt_minecart",
+        "chest_minecart",
+        "hopper_minecart",
+        "furnace_minecart",
+        "spawner_minecart",
+        "command_block_minecart",
+        "item_frame",
+        "glow_item_frame",
+        "armor_stand",
+        "tnt"
+    ]
+}
