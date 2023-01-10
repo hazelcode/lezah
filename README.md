@@ -15,7 +15,7 @@ Un gran proyecto de LezaHMC75
 ## Translation Notice
 The content of the datapack is 100% translated into English, but only limited to that.
 
-The repository, the web page, the PMC entry, and most of the README document (except for this notice) are in Spanish.
+The repository, the web page, the datapack entry, and most of the README document (except for this notice) are in Spanish.
 
 If you don't know Spanish, I recommend enabling the automatic translation option in your browser. I have already tried the automatic translation and the translations are not bad at all.
 
