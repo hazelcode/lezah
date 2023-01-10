@@ -6,18 +6,18 @@
     },
     "title": "LezaH Datapack",
     "description": {
-      "translate": "RESOURCEPACK NEEDED!",
-      "with": [
-        {
-          "translate": "pack.description.lezah"
-        }
-      ],
-      "color": "#32EA7E",
-      "italic": true,
-      "hoverEvent": {
-        "action": "show_text",
-        "value": ":)"
-      }
+            "translate": "pack.description.lezah",
+            "with": [
+              {
+                "translate": "RESOURCEPACK NEEDED!"
+              }
+            ],
+            "color": "#32EA7E",
+            "italic": true,
+            "hoverEvent": {
+              "action": "show_text",
+              "value": ":)"
+            }
     },
     "show_toast": false,
     "announce_to_chat": false

@@ -1,10 +1,10 @@
 {
     "pack": {
         "description": {
-            "translate": "RESOURCEPACK NEEDED!",
+            "translate": "pack.description.lezah",
             "with": [
               {
-                "translate": "pack.description.lezah"
+                "translate": "RESOURCEPACK NEEDED!"
               }
             ],
             "color": "#32EA7E",
