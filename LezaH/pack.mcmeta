@@ -1,6 +1,19 @@
 {
     "pack": {
-        "description": "Una mundo nuevo, una aventura nueva",
+        "description": {
+            "translate": "RESOURCEPACK NEEDED!",
+            "with": [
+              {
+                "translate": "pack.description.lezah"
+              }
+            ],
+            "color": "#32EA7E",
+            "italic": true,
+            "hoverEvent": {
+              "action": "show_text",
+              "value": ":)"
+            }
+          },
         "pack_format": 10
        }
 }

@@ -1,17 +1,31 @@
 {
-    "display": {
-        "title": "LezaH Datapack",
-        "description": "Una aventura nueva, un mundo nuevo",
-        "icon": {
-            "item": "minecraft:grass_block"
-        },
-        "show_toast": false,
-        "announce_to_chat": false
+  "display": {
+    "icon": {
+      "item": "minecraft:player_head",
+      "nbt": "{SkullOwner:\"LezaHMC75\"}"
     },
-    "parent": "global:steveapi",
-    "criteria": {
-        "trigger": {
-            "trigger": "minecraft:tick"
+    "title": "LezaH Datapack",
+    "description": {
+      "translate": "RESOURCEPACK NEEDED!",
+      "with": [
+        {
+          "translate": "pack.description.lezah"
         }
+      ],
+      "color": "#32EA7E",
+      "italic": true,
+      "hoverEvent": {
+        "action": "show_text",
+        "value": ":)"
+      }
+    },
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "global:steveapi",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
     }
+  }
 }
