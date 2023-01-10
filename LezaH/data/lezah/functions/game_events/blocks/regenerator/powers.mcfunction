@@ -11,3 +11,8 @@ execute as @e[type=armor_stand,tag=lezah.regenerator] at @s run effect give @e[t
 execute as @e[type=armor_stand,tag=lezah.regenerator] at @s run effect clear @e[type=#lezah:pets,distance=..75] poison
 execute as @e[type=armor_stand,tag=lezah.regenerator] at @s run effect clear @e[type=#lezah:pets,distance=..75] weakness
 execute as @e[type=armor_stand,tag=lezah.regenerator] at @s run effect clear @e[type=#lezah:pets,distance=..75] wither
+
+execute as @e[type=armor_stand,tag=lezah.regenerator] at @s run effect give @e[type=villager,distance=..75] regeneration 60 4
+execute as @e[type=armor_stand,tag=lezah.regenerator] at @s run effect clear @e[type=villager,distance=..75] poison
+execute as @e[type=armor_stand,tag=lezah.regenerator] at @s run effect clear @e[type=villager,distance=..75] weakness
+execute as @e[type=armor_stand,tag=lezah.regenerator] at @s run effect clear @e[type=villager,distance=..75] wither
