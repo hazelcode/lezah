@@ -12,6 +12,7 @@
         "item_frame",
         "glow_item_frame",
         "armor_stand",
-        "tnt"
+        "tnt",
+        "item"
     ]
 }
