@@ -8,11 +8,7 @@
 
 También debes descargar los siguientes datapacks para que Minecraft 2.0 funcione correctamente
 
- - [SteveAPI](https://github.com/tacozyt/steveapi/releases/latest)
-
-**POR AHORA ESTÁ INCLUIDO EN EL DATAPACK**
-
-Debido a pruebas está fusionado para que incluyamos probables características nuevas a ese datapack, después, ya deberás descargarlo obligatoriamente
+ - [SteveAPI v1.2.1](https://github.com/tacozyt/steveapi/releases/tag/v1.2.1)
 
 ## Descargas beta
 Puedes experimentar la última experiencia beta del datapack, puedes probarlas, dar tu opinión, sugerir cambios y arreglos
@@ -39,4 +35,17 @@ Incompatible, no hay descargas para Minecraft 1.18
 
 ### Minecraft 1.19.x
 
-Aún no hay descargas
+### Minecraft 1.19
+
+**Versión:** v1.0
+
+**Dependencias:**
+
+Mínimo: [SteveAPI v1.2.0.1](https://github.com/tacozyt/steveapi/releases/tag/v1.2.0.1)
+
+Recomendado: [SteveAPI v1.2.1](https://github.com/tacozyt/steveapi/releases/tag/v1.2.1)
+
+**Fecha y hora:** Domingo 15 de Enero del 2023 a las ?:?? AM/PM??? (Centro de México)
+
+[[ESPÉRATE HASTA EL ESTRENO]](https://github.com/tacozyt/lezah/releases/download/v1.0/LezaH_DP_v1.0_MC_1.19.zip)
+[[ESPÉRATE HASTA EL ESTRENO]](https://github.com/tacozyt/lezah-assets/releases/download/RP-v1.6.2/LezaH_DP_RP_v1.6.2_MC1.19.zip)
