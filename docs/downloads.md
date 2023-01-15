@@ -45,7 +45,7 @@ Mínimo: [SteveAPI v1.2.0.1](https://github.com/tacozyt/steveapi/releases/tag/v1
 
 Recomendado: [SteveAPI v1.2.1](https://github.com/tacozyt/steveapi/releases/tag/v1.2.1)
 
-**Fecha y hora:** Domingo 15 de Enero del 2023 a las ?:?? AM/PM??? (Centro de México)
+**Fecha y hora:** Domingo 15 de Enero del 2023 a las 3:59 PM (Centro de México)
 
-[[ESPÉRATE HASTA EL ESTRENO]](https://github.com/tacozyt/lezah/releases/download/v1.0/LezaH_DP_v1.0_MC_1.19.zip)
-[[ESPÉRATE HASTA EL ESTRENO]](https://github.com/tacozyt/lezah-assets/releases/download/RP-v1.6.2/LezaH_DP_RP_v1.6.2_MC1.19.zip)
+[[DESCARGAR DATAPACK]](https://github.com/tacozyt/lezah/releases/download/v1.0/LezaH_DP_v1.0_MC_1.19.zip)
+[[DESCARGAR RESOURCEPACK]](https://github.com/tacozyt/lezah-assets/releases/download/RP-v1.6.2/LezaH_DP_RP_v1.6.2_MC1.19.zip)
