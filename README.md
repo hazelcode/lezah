@@ -27,7 +27,7 @@ There is no translation team involved, the translations were done and proofread 
 Thank you for your time.
 - LezaH, author of the datapack
 
-## Additions
+## Adiciones
 
 Todos los items y características agregadas:
  - Vara de Trueno
