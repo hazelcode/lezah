@@ -4,8 +4,12 @@
       "item": "minecraft:iron_chestplate",
       "nbt": "{warrior:1}"
     },
-    "title": "¡Guerreros al ataque!",
-    "description": "Porta la armadura completa del guerrero",
+    "title": {
+      "translate": "advancements.lezah.warrior_armor.title"
+    },
+    "description": {
+      "translate": "advancements.lezah.warrior_armor.desc"
+    },
     "frame": "task",
     "show_toast": true,
     "announce_to_chat": true
@@ -13,40 +17,21 @@
   "parent": "lezah:bienvenida",
   "criteria": {
     "requirement": {
-      "trigger": "minecraft:inventory_changed",
+      "trigger": "minecraft:tick",
       "conditions": {
-        "items": [
+        "player": [
           {
-            "items": [
-              "minecraft:iron_helmet"
-            ],
-            "nbt": "{warrior:1}"
-          },
-          {
-            "items": [
-              "minecraft:iron_chestplate"
-            ],
-            "nbt": "{warrior:1}"
-          },
-          {
-            "items": [
-              "minecraft:iron_chestplate"
-            ],
-            "nbt": "{warrior:1}"
-          },
-          {
-            "items": [
-              "minecraft:iron_chestplate"
-            ],
-            "nbt": "{warrior:1}"
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "lezah.WarriorAdv": 1
+            }
           }
         ]
       }
     }
   },
-  "requirements": [
-    [
-      "iron_armor"
-    ]
-  ]
+  "rewards": {
+    "function": "lezah:game_events/warrior_adv/tag/warrior_armor"
+  }
 }

@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:player_head",
+      "nbt": "{SkullOwner:\"LezaHMC75\"}"
+    },
+    "title": {
+      "translate": "advancements.lezah.datapack.title"
+    },
+    "description": {
+      "translate": "advancements.lezah.datapack.desc"
+    },
+    "frame": "challenge",
+    "show_toast": false,
+    "announce_to_chat": false,
+	"background": "minecraft:textures/block/cyan_glazed_terracotta.png"
+  },
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "unlock": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "lezah:regenerator"
+        }
+      }
+    },
+    "rewards": {
+      "function": "lezah:regenerator"
+    }
+  }
+  

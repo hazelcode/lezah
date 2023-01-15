@@ -1,11 +1,15 @@
 {
   "display": {
     "icon": {
-      "item": "minecraft:player_head"
+      "item": "minecraft:command_block"
     },
-    "title": "¡Bienvenido, Minecraftero!",
-    "description": "¡Has llegado a éste mundo!",
-    "frame": "challenge",
+    "title": {
+      "translate": "advancements.lezah.welcome.title"
+    },
+    "description": {
+      "translate": "advancements.lezah.welcome.desc"
+    },
+    "frame": "goal",
     "show_toast": true,
     "announce_to_chat": false,
     "hidden": false

@@ -1,2 +1,2 @@
-execute if score #DisableAnnoyingSlimes settings matches 1 run kill @e[type=slime]
-execute if score #DisableAnnoyingSlimes settings matches 1 run kill @e[type=item,nbt={Item:{id:"minecraft:slime_ball"}}]
+execute if score #DisableAnnoyingSlimes steve.settings matches 1 run kill @e[type=slime]
+execute if score #DisableAnnoyingSlimes steve.settings matches 1 run kill @e[type=item,nbt={Item:{id:"minecraft:slime_ball"}}]

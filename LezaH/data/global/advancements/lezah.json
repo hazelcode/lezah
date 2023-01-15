@@ -1,0 +1,31 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:player_head",
+      "nbt": "{SkullOwner:\"LezaHMC75\"}"
+    },
+    "title": "LezaH Datapack",
+    "description": {
+            "translate": "pack.description.lezah",
+            "with": [
+              {
+                "translate": "RESOURCEPACK NEEDED!"
+              }
+            ],
+            "color": "#32EA7E",
+            "italic": true,
+            "hoverEvent": {
+              "action": "show_text",
+              "value": ":)"
+            }
+    },
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "global:steveapi",
+  "criteria": {
+    "trigger": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

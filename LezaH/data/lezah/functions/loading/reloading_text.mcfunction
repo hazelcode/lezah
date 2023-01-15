@@ -1,0 +1,1 @@
+tellraw @a [{"text": "[LezaH Datapack] ","color": "green"},{"translate":"text.lezah.reloading","color": "yellow"}]

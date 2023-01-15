@@ -1,0 +1,44 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:netherite_sword",
+      "nbt": "{ID:8}"
+    },
+    "title": {
+      "translate": "advancements.lezah.dont_trust_me.title"
+    },
+    "description": {
+      "translate": "advancements.lezah.dont_trust_me.desc"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "lezah:they_call_him_the_killer",
+  "criteria": {
+    "requirements": {
+      "trigger": "minecraft:player_hurt_entity",
+      "conditions": {
+        "player": {
+          "type": "minecraft:player",
+          "equipment": {
+            "mainhand": {
+              "items": [
+                "minecraft:netherite_sword"
+              ],
+              "nbt": "{ID:8}"
+            }
+          }
+        },
+        "entity": {
+          "type": "minecraft:zombie",
+          "flags": {
+            "is_baby": false
+          }
+        }
+      }
+    }
+  },
+  "rewards": {}
+}

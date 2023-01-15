@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "unlock": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "lezah:pico_liso"
+        }
+      }
+    },
+    "rewards": {
+      "function": "lezah:pico_liso"
+    }
+  }
+  

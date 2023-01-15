@@ -1,0 +1,14 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "type": "minecraft:player",
+      "equipment": {
+        "mainhand": {
+          "tag": "lezah:smooth_tools",
+          "nbt": "{liso:1}"
+        }
+      }
+    }
+  }
+  

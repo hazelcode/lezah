@@ -1,0 +1,1 @@
+function lezah:recipes/regenerator

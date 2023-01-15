@@ -19,7 +19,7 @@ assignees: ''
 **VERSIÓN DEL JUEGO**
 Aquí pon la versión de Minecraft en la que te ocurrió
 Actualmente el datapack solo es compatible con:
-1.17, 1.17.1, 1.18, 1.18.1, 1.18.2
+1.18.x (Parcialmente) y 1.19
 
 **VERSIÓN DEL DATAPACK**
 Aquí pon la versión del datapack en la que te ocurrió.

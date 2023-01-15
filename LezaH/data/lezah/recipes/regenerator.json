@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "oYo",
+    "oSo",
+    "ooo"
+  ],
+  "key": {
+    "o": {
+      "item": "ghast_tear"
+    },
+    "Y": {
+      "item": "wither_rose"
+    },
+    "S": {
+      "item": "diamond_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:command_block",
+    "count": 1
+  }
+}

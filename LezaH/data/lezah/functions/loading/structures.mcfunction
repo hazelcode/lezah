@@ -1,4 +1,4 @@
-tellraw @a [{"text": "[LezaH Datapack] ","color": "green"},{"text": "Generando estructuras..."}]
+tellraw @a [{"text": "[LezaH Datapack] ","color": "green"},{"translate":"text.lezah.generating_structures"}]
 ##CARGAR ÁREAS##
 forceload add 120 140 155 175
 

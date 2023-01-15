@@ -1,0 +1,1 @@
+scoreboard players reset @s[advancements={lezah:healing_station=true}] lezah.RegenAdv1

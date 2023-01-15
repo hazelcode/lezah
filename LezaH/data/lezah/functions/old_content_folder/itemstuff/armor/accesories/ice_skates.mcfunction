@@ -1,0 +1,3 @@
+execute as @a[predicate=lezah:armor_check/accesories/ice_skates] at @a[predicate=lezah:armor_check/accesories/ice_skates] if block ~ ~-1 ~ #lezah:cold_blocks run effect give @s speed 2 4 true
+execute as @a[predicate=lezah:armor_check/accesories/ice_skates] at @a[predicate=lezah:armor_check/accesories/ice_skates] if block ~ ~-1 ~ #lezah:cold_blocks run effect give @s slow_falling 3 2 true
+execute as @a[predicate=lezah:armor_check/accesories/ice_skates] at @a[predicate=lezah:armor_check/accesories/ice_skates] if block ~ ~-1 ~ #lezah:cold_blocks run effect give @s jump_boost 2 2 true

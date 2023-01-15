@@ -1,0 +1,8 @@
+execute at @e[type=!#lezah:thunder_rod_ignore,distance=0.1..45,predicate=!steveapi:gamemode_19/creative,predicate=!steveapi:gamemode_19/spectator,nbt=!{Invisible:1b}] run summon lightning_bolt ~ ~ ~
+execute if entity @e[type=!#lezah:thunder_rod_ignore,distance=0.1..45,predicate=!steveapi:gamemode_19/creative,predicate=!steveapi:gamemode_19/spectator,nbt=!{Invisible:1b}] run clear @s[predicate=!steveapi:gamemode_19/creative] carrot_on_a_stick{ID:9} 1
+execute if entity @e[type=!#lezah:thunder_rod_ignore,distance=0.1..45,predicate=!steveapi:gamemode_19/creative,predicate=!steveapi:gamemode_19/spectator,nbt=!{Invisible:1b}] if entity @s[predicate=!steveapi:gamemode_19/creative] run playsound entity.item.break master @a[distance=..7] ~ ~ ~
+execute unless entity @e[type=!#lezah:thunder_rod_ignore,distance=0.1..45,predicate=!steveapi:gamemode_19/creative,predicate=!steveapi:gamemode_19/spectator,nbt=!{Invisible:1b}] run title @s actionbar {"translate":"text.lezah.thunder_rod_radius","color":"red"}
+execute if entity @e[type=!#lezah:thunder_rod_ignore,distance=0.1..45,predicate=!steveapi:gamemode_19/creative,predicate=!steveapi:gamemode_19/spectator,nbt=!{Invisible:1b}] run title @s actionbar {"translate":"text.lezah.thunder_rod_boom","color":"green"}
+scoreboard players reset @s lezah.thunderRod
+scoreboard players set @s lezah.TRTriggAdv 1
+execute if entity @e[type=!#lezah:thunder_rod_ignore,distance=0.1..45,predicate=!steveapi:gamemode_19/creative,predicate=!steveapi:gamemode_19/spectator,nbt=!{Invisible:1b}] run advancement grant @s[scores={lezah.TRSuperAdv=1,lezah.TRTriggAdv=1}] only lezah:thunder_god

@@ -1,1 +1,0 @@
-function lezah:nbt/item_propose/apply_modifiers

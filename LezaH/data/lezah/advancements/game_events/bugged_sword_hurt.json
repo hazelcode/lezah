@@ -1,0 +1,29 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:player_hurt_entity",
+        "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type": "minecraft:player",
+                "equipment": {
+                  "mainhand": {
+                    "tag": "lezah:upgradeable_swords",
+                    "nbt": "{ID:10}"
+                  }
+                }
+              }
+            }
+          ],
+          "entity": []
+        }
+      }
+    },
+    "rewards": {
+      "function": "lezah:game_events/bugged_sword/hurt"
+    }
+  }
+  

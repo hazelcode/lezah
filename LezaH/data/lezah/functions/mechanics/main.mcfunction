@@ -1,1 +1,1 @@
-function lezah:mechanics/ice_skates/effects
+function lezah:mechanics/compass

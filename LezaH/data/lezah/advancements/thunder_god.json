@@ -1,0 +1,45 @@
+{
+  "display": {
+    "icon": {
+      "item": "minecraft:carrot_on_a_stick",
+      "nbt": "{ID:9}"
+    },
+    "title": {
+      "translate": "advancements.lezah.thunder_god.title"
+    },
+    "description": {
+      "translate": "advancements.lezah.thunder_god.desc"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "lezah:thunder_rod",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:effects_changed",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_scores",
+            "entity": "this",
+            "scores": {
+              "lezah.TRTriggAdv": 1,
+              "lezah.TRSuperAdv": 1
+            }
+          }
+        ],
+        "effects": {
+          "minecraft:slow_falling": {
+            "amplifier": 0,
+            "duration": {
+              "min": 1,
+              "max": 25
+            }
+          }
+        }
+      }
+    }
+  }
+}
