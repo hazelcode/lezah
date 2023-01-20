@@ -1,5 +1,5 @@
 advancement revoke @s only lezah:game_events/bugged_sword_hurt
-## LA CAGUÉ Y DURO XDDDDDDDDDDD
+## LA CAGUE Y DURO XDDDDDDDDDDD
 execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @e[distance=0.1..5,limit=1] run summon tnt
 execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @e[distance=0.1..5,limit=1] run summon creeper
 execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @e[distance=0.1..5,limit=1] run summon lightning_bolt
@@ -8,6 +8,11 @@ execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @e[di
 execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @e[distance=0.1..5,limit=1] run summon bee
 execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @e[distance=0.1..5,limit=1] run summon witch
 execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @e[distance=0.1..5,limit=1] run summon salmon
+execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @e[distance=0.1..5,limit=1] run summon armor_stand
+execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @e[distance=0.1..5,limit=1] run summon enderman
+execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @e[distance=0.1..5,limit=1] run summon endermite
+execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @e[distance=0.1..5,limit=1] run summon ocelot
+execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @e[distance=0.1..5,limit=1] run summon giant
 execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @s run give @s acacia_boat
 execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @s run give @s acacia_button
 execute if predicate lezah:game_events/probabilities/bugged_sword as @s at @s run give @s golden_apple
