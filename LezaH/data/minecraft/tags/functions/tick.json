@@ -2,7 +2,6 @@
     "replace": false,
     "values": [
         "lezah:loading/main",
-        "lezah:loading/api/main",
-        "anticheat:main"
+        "lezah:loading/api/main"
     ]
 }
