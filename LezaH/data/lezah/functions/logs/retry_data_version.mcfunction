@@ -1,0 +1,1 @@
+schedule function lezah:logs/get_data_version 20t

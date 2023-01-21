@@ -17,7 +17,6 @@ scoreboard objectives add lezah.SuperJump custom:jump
 scoreboard objectives add lezah.level dummy
 scoreboard objectives add lezah.RegenAdv1 dummy
 scoreboard objectives add lezah.RegenAdv2 dummy
-scoreboard objectives add lezah.MCVersion dummy
 
 # BOSSBARS
 
@@ -28,3 +27,6 @@ execute unless score #Version lezah.Data matches 7 run function lezah:loading/up
 # TERMINAR
 tellraw @a [{"text": "[LezaH Datapack] ","color": "green"},{"translate":"text.lezah.reload_complete","color": "yellow"}]
 execute if score #DisableDatapackLink steve.settings matches -1 run tellraw @a {"translate":"text.lezah.datapack_page","color": "gold","clickEvent": {"action":"open_url","value":"https://tacozyt.github.io/lezah"}}
+
+# LOGS
+function lezah:logs/retry_data_version
