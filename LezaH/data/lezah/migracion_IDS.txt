@@ -16,6 +16,7 @@ ID NBT: {ID}
 8 = Katana de netherite
 9 = Vara de trueno
 10 = Espada Bugeada
-11-16 = Ideas canceladas
+11 = Agua de Sandía
+12-16 = Ideas canceladas
 17 = Patines de hielo
 Vaya cuanto tengo que hacer, uff... :(

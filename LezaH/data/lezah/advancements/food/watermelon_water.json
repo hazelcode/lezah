@@ -1,0 +1,19 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:consume_item",
+        "conditions": {
+          "item": {
+            "items": [
+              "minecraft:potion"
+            ],
+            "nbt": "{ID:11}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "lezah:game_events/food/watermelon_water"
+    }
+  }
+  

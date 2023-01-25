@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "unlock": {
+        "trigger": "minecraft:recipe_unlocked",
+        "conditions": {
+          "recipe": "lezah:watermelon_water"
+        }
+      }
+    },
+    "rewards": {
+      "function": "lezah:watermelon_water"
+    }
+  }
+  
