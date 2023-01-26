@@ -1,0 +1,26 @@
+SATURACIÓN
+0 = 0.5 muslitos
+1 = 1.0 muslitos
+2 = 1.5 muslitos
+3 = 2.0 muslitos
+4 = 2.5 muslitos
+5 = 3.0 muslitos
+6 = 3.5 muslitos
+7 = 4.0 muslitos
+Y así sucesivamente
+
+ALIMENTO
+La saturación se suma con lo que regenera el alimento seleccionado
+EJEMPLOS:
+
+Una chuleta que regenera 4.0 muslitos, más 5 de saturación (3.0 muslitos) = 7.0 muslitos
+4.0 + 3.0 = 7.0
+
+Un pez tropical que regenera 0.5 muslitos, más 3 de saturación (2.0 muslitos) = 2.5 muslitos
+0.5 + 2.0 = 2.5
+
+FÓRMULA
+REGENERACIÓN DE SATURACIÓN (A) = 0.5 por nivel, empezando desde el nivel 0
+REGENERACIÓN DE ALIMENTO (B) = Los muslitos que regenera el alimento
+
+A + B = C (Resultado final)
