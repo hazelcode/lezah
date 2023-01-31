@@ -1,7 +1,6 @@
 {
 	"replace": false,
     "values": [
-        "lezah:loading/load",
-        "anticheat:load"
+        "lezah:loading/load"
     ]
 }
