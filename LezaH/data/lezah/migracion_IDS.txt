@@ -22,6 +22,6 @@ ID NBT: {ID}
 Vaya cuanto tengo que hacer, uff... :(
 
 Custom Model Data
-Items que están registrados CustomModelData
+Items que están registrados en CustomModelData
 
 7500002 = Hamburguesa
