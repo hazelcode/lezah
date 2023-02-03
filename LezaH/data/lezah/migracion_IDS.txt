@@ -20,3 +20,8 @@ ID NBT: {ID}
 12-16 = Ideas canceladas
 17 = Patines de hielo
 Vaya cuanto tengo que hacer, uff... :(
+
+Custom Model Data
+Items que están registrados CustomModelData
+
+7500002 = Hamburguesa

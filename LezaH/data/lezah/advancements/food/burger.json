@@ -1,0 +1,19 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:consume_item",
+        "conditions": {
+          "item": {
+            "items": [
+              "minecraft:tropical_fish"
+            ],
+            "nbt": "{CustomModelData:7500002}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "lezah:game_events/food/burger"
+    }
+  }
+  
