@@ -1,7 +1,7 @@
-# Oculto por ahora, será implementado más tarde
-# Ésta función detecta la versión del juego
-# Ésto nos permitirá solucionar bugs para versiones exactas del juego
-# Aprende más acerca de las data versions: https://minecraft.fandom.com/wiki/Data_version
+# Oculto por ahora, serï¿½ implementado mï¿½s tarde
+# ï¿½sta funciï¿½n detecta la versiï¿½n del juego
+# ï¿½sto nos permitirï¿½ solucionar bugs para versiones exactas del juego
+# Aprende mï¿½s acerca de las data versions: https://minecraft.fandom.com/wiki/Data_version
 # Lista de data versions desde Minecraft 1.14: https://misode.github.io/versions/
 
 data merge storage lezah:data {Logs: {DataVersion:0}}
@@ -22,9 +22,9 @@ execute if score #DataVersion lezah.Data matches 3117..3119 run tellraw @a [{"te
 execute if score #DataVersion lezah.Data matches 3120..3217 run tellraw @a [{"text": "You are on "},{"text": "Minecraft 1.19.2!","color": "green"}]
 
 # Minecraft 1.19.3
-execute if score #DataVersion lezah.Data matches 3218..3320 run tellraw @a [{"text": "You are on "},{"text": "Minecraft 1.19.3!","color": "green"}]
+execute if score #DataVersion lezah.Data matches 3218..3330 run tellraw @a [{"text": "You are on "},{"text": "Minecraft 1.19.3!","color": "green"}]
 
 # Minecraft ?.??.?
-execute if score #DataVersion lezah.Data matches 3321 run tellraw @a [{"text": "You are on "},{"text": "Minecraft ?.??.?!","color": "green"}]
+execute if score #DataVersion lezah.Data matches 3331.. run tellraw @a [{"text": "You are on "},{"text": "Minecraft ?.??.?!","color": "green"}]
 
 execute if score #DataVersion lezah.Data matches 0 run function lezah:logs/retry_data_version
